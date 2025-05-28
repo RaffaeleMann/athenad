@@ -1,0 +1,3045 @@
+21D0	'Acqua', 'Carro dell'acqua' (Ripa)
+48C10	'Architectura', rappresentazioni simboliche, allegorie ed emblemi ~ architettura; 'Architettura' (Ripa)
+48C1451	'Architekturbild'
+73D81	'Arma Christi'
+140	'Astrologia' (Ripa)
+49E10	'Astronomia', 'Cosmografia'; 'Cosmografia' (Ripa)
+33C8120	'Castità', 'Pudicitia', 'Vergogna honesta' (Ripa)
+11D3222	'Christus Rex'
+92B11221	'Cornucopia', Corno dell'Abbondanza
+73D724	'Epitaphios' ~ compianto sul Cristo morto
+92D19161	'Eroti', festa di Venere (Filostrato, Imag. I, 6): gli amorini giocano con le mele in un frutteto dove si erge un altare di Venere; scagliano frecce, ballano, lottano tra loro e tentano di catturare lepri
+11D326	'Fons Vitae', 'Fons Pietatis'
+11E544	'Fortitudo', Fortezza ~ uno dei sette doni dello Spirito Santo
+21C0	'Fuoco', 'Carro del fuoco' (Ripa)
+49C122	'Geometria' (~ quadrivio); 'Geometria' (Ripa)
+49C111	'Grammatica' (~ trivio); 'Grammatica' (Ripa)
+49K10	'Historia'; 'Historia' (Ripa)
+11F41221	'Hodegetria' ~ Madonna
+11F232	'Immaculata', 'Purisima': Maria Vergine, in genere in piedi sulla mezzaluna, mentre scende dal Cielo, immune dal peccato originale (talvolta raffigurata mentre calpesta il serpente) ~ Maria Vergine a figura eretta senza Gesù Bambino
+11D321	'Majestas Domini': Cristo nella mandorla seduto sull'arcobaleno o sulla sfera con il Tetramorfo
+11D311	'Mandylion', ovvero il ritratto che si dice sia stato realizzato per il re Abgar di Edessa da Cristo stesso asciugandosi il volto sul velo
+11F4135	'Marianum', Madonna in un'aureola o in una mandorla contornata dal rosario, Maria in Gloria
+11Q140	'Martirio' (Ripa)
+11F25	'Mater Dolorosa'
+49C124	'Musica'(~ quadrivio); 'Musica' (Ripa)
+48C70	'Musica'; rappresentazioni simboliche, allegorie ed emblemi ~ musica; 'Musica' (Ripa)
+54B121	'Occasio', 'Kairos'; 'Occasione' (Ripa)
+11Q7325	'Ordinatio', ordinazione ~ il quinto dei sette sacramenti
+11D3221	'Pantocrator', (busto di) Cristo, in atto di parlare o benedire, con in mano un libro
+49C20	'Philosophia'; 'Filosofia' (Ripa)
+48C510	'Pictura'; rappresentazioni simboliche ed emblemi ~ pittura, 'Pittura' (Ripa)
+57B21	'Pietas'; 'Pietà' (Ripa)
+73D722	'Pietà', 'Vesperbild', 'Marienklage' (senza altri personaggi): Cristo, con o senza la corona di spine, compianto da Maria
+96B113	'Pius Aeneas': Enea, conducendo per mano Ascanio, fugge da Troia in fiamme, portando sulle spalle il padre Anchise con i Penati; la moglie Creusa, che si avvia con loro, si smarrisce lungo la strada
+11B52	'Quinity', Quinità, la Trinità con la Madonna col Bambino)
+11B4	'Ratschluss der Erlosung', 'Prolog im Himmel; Divino decreto della redenzione
+11D324	'Salvator Mundi', in atto di benedire; ha il globo in mano o ai suoi piedi
+11M	'Sapientia' e le sette Virtù, ovvero le tre Virtù Teologali e le quattro Virtù Cardinali
+11E541	'Sapientia', Sapienza; 'Sapienza divina' (Ripa) ~ uno dei sette doni dello Spirito Santo
+48C20	'Sculptura', rappresentazioni simboliche, allegorie ed emblemi ~ scultura; 'Scoltura' (Ripa)
+43A431	'Trionfi' (del Petrarca)
+11D312	'Vera Icon', 'Sudarium', velo della Veronica
+11D3121	'Vera Icon', sostenuta dalla Veronica
+45A30	'Victoria'; 'Vittoria', 'Vittoria navale', 'Vittoria degl'antichi' (Ripa)
+11D314	'Volto Santo', p.es. di Lucca (attribuito a Nicodemo)
+31A25311	'caput manui innixum', testa tenuta con la mano (tra le mani)
+73C221	'comanda a queste pietre di diventare pani' ~ tentazione di Cristo nel deserto
+48C90	'litterae', rappresentazioni simboliche, allegorie ed emblemi ~ letteratura; 'Lettere' (Ripa)
+48C51561	'passe-partout'
+11D31	'ritratti' di Cristo
+11F22	'ritratti' di Maria Vergine
+92C455	'sine Cerere et Baccho friget Venus'
+12A7542	'tefillin', filatteri ~ oggetti rituali, cultura ebraica
+41E2	'trompe' l'oeil'
+45L3111	'tropaion', ovvero decorazione ~ armi
+73A32	(Gioacchino e Anna con) Maria bambina
+11P31110	(allegoria del) papato ed eredità apostolica
+25H113	(alta) collina
+25HH113	(alta) collina - HH - paesaggi ideali
+92B5722	(altri) ibridi a forma di pilastro
+25A24	(carta dell') Africa
+43C7872	(giocare con) animali giocattolo
+43C787	(giocare con) bambole, animali giocattolo
+43C78	(giocare con) giocattoli
+73A2352	(immacolata) concezione di Maria rappresentata simbolicamente
+41D9	(mostrarsi) svestiti, seminudi
+24C22	(personificazioni dei) pianeti con i loro figli, cosiddetti 'Planetenkinder', accompagnati dai corrispondenti segni zodiacali
+11C15	(raggi di) luce ~ simbolo di Dio Padre
+73A	(scene dalla vita di) Giovanni Battista e Maria
+11M2	(simboli delle) sette Virtù
+11I36	(singolo) apostolo, non specificato
+11I16	(singolo) profeta, non specificato
+92D4	(storia delle) Muse; 'Muse' (Ripa)
+92C491	(storia di) Adone
+92B3	(storia di) Apollo (Febo)
+92L121	(storia di) Arianna e Bacco
+92F2	(storia di) Asclepio (Esculapio)
+92E1	(storia di) Aurora (Eos); 'Aurora' (Ripa)
+92L1	(storia di) Bacco (Dioniso), Libero
+92M1	(storia di) Cerere (Demetra)
+92D1	(storia di) Cupido, Amore (Eros)
+92C3	(storia di) Diana (Artemide)
+94L	(storia di) Ercole (Eracle)
+96A23	(storia di) Flora
+92I22	(storia di) Galatea; 'Galatea' (Ripa)
+96A12	(storia di) Giano
+92B1	(storia di) Giove (Zeus)
+92C1	(storia di) Giunone (Era)
+92C14	(storia di) Giunone (Era) - atti e relazioni aggressivi, ostili
+92B4	(storia di) Marte (Ares)
+92B5	(storia di) Mercurio (Ermes)
+92C2	(storia di) Minerva (Pallade, Atena)
+92H1	(storia di) Nettuno (Poseidone)
+92D5	(storia di) Nike
+94O	(storia di) Orfeo
+91B132	(storia di) Pallante (Titano)
+92L5	(storia di) Pan
+92K14	(storia di) Peneo
+94P	(storia di) Perseo
+92N1	(storia di) Plutone (Ade), Dis Pater, Orco
+91E4	(storia di) Prometeo
+91B111	(storia di) Saturno (Crono)
+92L421	(storia di) Sileno
+92H3	(storia di) Tritone
+92C4	(storia di) Venere (Afrodite)
+92C5	(storia di) Vesta
+92B2	(storia di) Vulcano (Efesto)
+11Q65	(venerazione di) oggetti devozionali
+71H244	Abigail, moglie di Nabal, viene avvertita del rifiuto di Nabal e dell'avanzata di David
+71C112	Abramo comunica con Dio (in generale)
+71C119	Abramo e Agar
+71C1224	Abramo ospita i tre angeli
+71C1313	Abramo prende il coltello per uccidere Isacco
+71C1222	Abramo si prostra davanti agli angeli
+94G2	Achille fa strage sul campo di battaglia; gli dei scendono dall'Olimpo per partecipare alla battaglia (Il. XX-XXII)
+94C22	Achille scoperto tra le figlie di Licomede, ovvero Achille a Sciro; quando vengono offerti dei doni, Achille afferra le armi e così tradisce la sua identità
+94F832	Achille veste le armi
+92I2221	Aci ama Galatea
+71A5	Adamo ed Eva in paradiso (dopo la Caduta)
+71A35	Adamo ed Eva in paradiso (prima della Caduta)
+71A53	Adamo ed Eva rimproverati da Dio
+93E	Ade, gli inferi
+71C1284	Agar e Ismaele nel deserto
+71C12841	Agar in lacrime dopo aver deposto Ismaele morente sotto un cespuglio
+33C9	Amore: 'Frau Minne' e altre allegorie
+73F25342	Andrea in adorazione della croce ('O bona crux')
+73F2534	Andrea in cammino verso il luogo dell'esecuzione (talvolta condotto da soldati)
+94P2112	Andromeda incatenata alla roccia
+73A331	Anna insegna a leggere a Maria
+73A523	Annunciazione: Maria in ginocchio
+73AA523	Annunciazione: Maria in ginocchio - AA - Maria a sinistra, l'angelo a destra
+73A521	Annunciazione: Maria in piedi
+73A522	Annunciazione: Maria seduta
+73AA522	Annunciazione: Maria seduta - AA - Maria a sinistra, l'angelo a destra
+73G1	Apocalisse 1 - 3
+73G2	Apocalisse 4 - 5
+73G3	Apocalisse 6 - 11
+92B373	Apollo che suona la lira, Apollo Citaredo
+92B371	Apollo come dio del sole, ovvero Sole (Elio), il Titano
+92B3731	Apollo e le Muse, Apollo Musagete
+92B325	Apollo insegue la ninfa Dafne (non ancora trasformata)
+92B3711	Apollo sul carro del sole, tirato da quattro cavalli, in genere preceduto da Aurora che regge una torcia; 'Carro del Sole' (Ripa)
+92B342	Apollo uccide il drago Pitone
+12A422	Arca dell'Alleanza ~ religione ebraica
+71H849	Assalonne, in fuga su una mula, rimane sospeso per i capelli ad un albero
+97C1	Atteone trasformato in cervo: come punizione per averla guardata mentre si bagnava a una fonte, Diana trasforma il cacciatore Atteone in un cervo (Met. III, 193)
+97C11	Atteone, trasformato in cervo, viene divorato dai suoi stessi cani
+92L1122	Bacco educato da satiri, menadi e da Sileno
+92L1211	Bacco trova Arianna a Nasso
+73F2742	Bartolomeo scorticato vivo
+7	Bibbia (storie dal Vecchio e dal Nuovo Testamento)
+73D3222	Caifa si straccia le vesti ~ processo a Cristo
+11M33	Carità, 'Caritas'; 'Carità' (Ripa) ~ una delle tre Virtù Teologali
+93E3	Caronte, il traghettatore
+11G12	Cherubini
+11D112	Chrismon e forme derivate ~ simbolo di Cristo
+11S	Cielo, paradiso terrestre, Nuova Terra
+32B3311	Cinese
+73E341	Cleofa e Pietro incontrano Cristo (talvolta sono vestiti come pellegrini)
+11D	Cristo
+11D3271	Cristo Buon Pastore
+73E351	Cristo a tavola con gli apostoli ~ dopo la Resurrezione
+11D3	Cristo adulto
+11D331	Cristo adulto con Maria Vergine
+11D332	Cristo adulto con angeli
+11D335	Cristo adulto con figure di mortali
+11D33	Cristo adulto insieme ad altri personaggi (in contesto non narrativo)
+11D334	Cristo adulto insieme agli apostoli, evangelisti, santi, ecc.
+11D34	Cristo adulto ~ concettualizzazioni
+73D9	Cristo agli Inferi, i tormenti dell'inferno, Cristo al Limbo, 'descensus ad inferos', 'Anastasis'
+73D35121	Cristo alla colonna (dopo la flagellazione)
+73E35	Cristo appare agli apostoli (riuniti a porte chiuse)
+73E33	Cristo appare alle pie donne, di solito le tre Marie
+73E741	Cristo appare e accoglie l'anima di Maria ('assumptio animae')
+73E421	Cristo ascende al cielo, tenendo la mano di Dio o insieme a uno o più angeli
+73E427	Cristo ascende al cielo; in basso sono gli apostoli (e Maria)
+73E423	Cristo avvolto da una nuvola ~ Ascensione
+73C78	Cristo battezza (in Giudea) (Gv. 3, 26)
+73E413	Cristo benedice gli apostoli sul Monte degli Ulivi
+73C7224	Cristo benedice i fanciulli condotti dalle loro mamme, in genere qualche discepolo osserva con disapprovazione Mt. 19, 13-15; Mc. 10, 13-16; Lc. 18, 15-17)
+73D411	Cristo cade ~ trasporto della croce
+73C7124	Cristo chiede agli apostoli:'chi crede la gente che io sia?' (Mt. 16, 13-23; Mc. 8, 27-33; Lc. 9, 18-22)
+73C7	Cristo come maestro (parte I): spiegazione della sua dottrina; insegnamento ~ parabole e proverbi
+73C8	Cristo come maestro (parte II): parabole e massime di Cristo
+73D723	Cristo compianto dagli angeli
+11D3251	Cristo con il calice e il pane o l'ostia
+73D3512	Cristo con le ferite provocate dalla fustigazione
+73C71242	Cristo consegna a Pietro le chiavi del Cielo
+73D642	Cristo crocifisso con Maria Maddalena, di solito rappresentata mentre piange e abbraccia la croce
+73D641	Cristo crocifisso con Maria e Giovanni ai due lati della croce; la Santa Croce
+73D643	Cristo crocifisso con Maria, Giovanni e Maria Maddalena
+73D646	Cristo crocifisso con altri personaggi
+73D66	Cristo crocifisso sul Golgota (solo, senza alcun personaggio che assiste)
+11D355	Cristo crocifisso sull'albero o sulla vite
+73D64	Cristo crocifisso, con personaggi specifici ai piedi della croce
+73D324	Cristo davanti a Erode; talvolta viene portata una veste sgargiante (Lc. 23, 8-11)
+73D323	Cristo davanti a Pilato (Mt. 27, 11-26; Mc. 15, 2-15; Lc. 23, 2-7; 23, 13-25; Gv. 18, 28 - 19, 16)
+73D321	Cristo davanti ad Anna; vicino può trovarsi un soldato in atto di percuoterlo (Gv. 18, 13; 18, 19-24)
+73D322	Cristo davanti al Sinedrio con Caifa come sommo sacerdote ed eventualmente Anna; può trovarsi vicino un soldato in atto di percuoterlo perché faccia silenzio (Mt. 26, 57-66; Mc. 14, 53-64; Lc. 22, 54; 22, 66-71)
+73C621	Cristo discute del tributo al tempio con gli apostoli
+73D7222	Cristo disteso ai piedi di Maria
+73E4	Cristo e gli apostoli sul Monte degli Ulivi
+73C71	Cristo e i dodici apostoli: vocazione, missione e trasfigurazione
+73C726	Cristo e i pasti
+73C72212	Cristo e la Samaritana: seduto presso il pozzo di Giacobbe Cristo le chiede di bere dalla sua brocca
+73E123	Cristo esce dal sepolcro
+73C72	Cristo espone la sua dottrina
+73C722	Cristo espone la sua dottrina a donne e bambini
+73C721	Cristo espone la sua dottrina agli apostoli e discepoli
+73D761	Cristo giacente nel sarcofago
+73C43	Cristo guarisce gli indemoniati
+73C41	Cristo guarisce i ciechi
+73C45	Cristo guarisce i lebbrosi
+73C42	Cristo guarisce i paralitici
+73E422	Cristo in alto nel cielo ~ Ascensione
+73C7223	Cristo in casa di Marta e Maria (Lc. 10, 38-42)
+73E131	Cristo in piedi sul sepolcro o vicino ad esso ~ episodi successivi alla Resurrezione
+11D322	Cristo in trono
+73D413	Cristo incontra la Madonna, che talvolta figura in atto di svenire ('Lo Spasimo')
+73D415	Cristo incontra la Veronica, che gli asciuga il volto con un panno
+73D94	Cristo lascia gli Inferi: libera patriarchi, profeti, re e altri personaggi, tra cui Adamo, Eva, Mosè, David e Giovanni Battista
+73D23	Cristo lava i piedi degli apostoli (Gv. 13, 1-20)
+73D231	Cristo lava i piedi di Pietro
+73D721	Cristo morto compianto da familiari e persone a lui vicine (Cristo è in genere rappresentato senza la corona di spine)
+73D6718	Cristo morto ~ particolari iconografici delle scene relative alla crocifissione
+73C21	Cristo nel deserto
+11D3278	Cristo pellegrino
+73D414	Cristo pianto dalle donne di Gerusalemme; in qualche caso raffigurato mentre le consola
+73E4221	Cristo portato in cielo dagli angeli ~ Ascensione
+73C734	Cristo predica all'aperto
+73C732	Cristo predica nel tempio
+73C73	Cristo predica o insegna (in generale)
+73E425	Cristo quasi del tutto scomparso: solo i piedi sono ancora visibili ~ Ascensione
+11D352	Cristo ricoperto di piaghe della peste, 'Pestkruzifixus'
+73E15	Cristo risorto (con le piaghe, ma senza corona di spine), talvolta tiene la croce
+73E426	Cristo sale in cielo mentre gli apostoli siedono ad un tavolo (~ Mc. 16, 14-19)
+11C3	Cristo seduto alla destra di Dio
+73D361	Cristo senza altri personaggi (ovvero Ecce Homo)
+73C24	Cristo servito da uno o più angeli: gli portano acqua e cibo, talvolta sono inviati da Maria
+73D17	Cristo si congeda da Maria, di solito è presente Maria Maddalena
+11D354	Cristo si stacca dalla croce per abbracciare qualcuno
+11D351	Cristo sofferente (con la corona di spine, il capo generalmente reclinato da un lato, 'Christus patients')
+73E133	Cristo sospeso in aria sul sepolcro o vicino ad esso
+73D51	Cristo spogliato delle vesti
+73E121	Cristo sposta il coperchio del sarcofago ~ Resurrezione
+73D7221	Cristo sulle ginocchia di Maria
+11D353	Cristo trionfante (con la corona di spine, il capo generalmente eretto, 'Christus triumphans')
+73D42	Cristo viene condotto al Golgota; la croce è trasportata da altri
+73D711	Cristo viene deposto dalla croce (un braccio di Cristo è ancora inchiodato alla croce)
+73D712	Cristo viene deposto ~ deposizione dalla croce
+73D315	Cristo viene portato via ~ orto di Getsemani
+11D325	Cristo ~ Eucaristia
+11D327	Cristo ~ attività umane
+73D562	Cristo è inchiodato alla croce già eretta in precedenza
+73D37	Cristo, che giace o è trascinato lungo la scalinata, è malmenato alla presenza di Pilato (rottura della canna)
+73E32	Cristo, che può essere rappresentato in abito da pellegrino, appare alla madre, raffigurata in genere in atto di pregare
+73E12	Cristo, di solito con il vessillo in mano, sorge dal sepolcro; sono spesso rappresentati i soldati addormentati e/o spaventati
+73C22	Cristo, talvolta accompagnato da uno o più angeli custodi, è tentato da Satana, che di norma appare in forma umana
+97AA1	Dafne trasformata in alloro: mentre fugge da Apollo, Dafne è trasformata in alloro dal padre Peneo (Met. I, 548)
+71P3	Daniele e re Dario (Dn. 6)
+81C	Dante, 'Divina Commedia' : Usare 83(DANTE, Divina Commedia)
+71H13	David come suonatore d'arpa alla corte di Saul
+71H145	David con la testa di Golia
+71H1443	David decapita Golia con una spada
+71H24	David e Abigail (1 Sam. 25)
+71H7	David e Betsabea (2 Sam. 11-12)
+71H16	David fugge da Saul dopo il matrimonio con Mikal (1 Sam. 19)
+71H611	David in comunicazione con Dio; David in preghiera (in generale)
+71H152	David vittorioso in numerose guerre contro i filistei ed altri nemici
+71H71	David, dalla terrazza del palazzo, vede Betsabea che fa il bagno
+92C321	Diana (Luna) visita Endimione addormentato
+11C	Dio Padre
+11C231	Dio Padre (come vecchio barbato) raffigurato in trono, generalmente con la corona o la tiara e lo scettro e/o il globo
+11B312	Dio Padre e lo Spirito Santo sostengono Cristo crocifisso ~ simbologia della Trinità
+11C21	Dio Padre rappresentato come uomo adulto o giovane (talvolta simile a Cristo)
+11C22	Dio Padre rappresentato come uomo adulto o giovane simile a Giove
+11C23	Dio Padre rappresentato come vecchio barbato, generalmente con la corona o la tiara o lo scettro e/o il globo
+11C2	Dio padre rappresentato come essere umano, generalmente con la corona o la tiara o lo scettro e/o il globo
+71A32	Dio pianta il Giardino di Eden
+71A31	Dio plasma l'uomo dalla polvere
+71A61	Dio scaccia Adamo ed Eva dal paradiso e mette a guardia dell'albero della vita un angelo con una spada fiammeggiante
+73G211	Dio sul trono, circondato da ventiquattro vegliardi (con la corona sul capo e in atto di suonare l'arpa) e dai quattro Esseri viventi
+71A341	Dio toglie una costola dal fianco di Adamo addormentato
+11A	Divinità, Dio (in generale) ~ religione cristiana
+11I5	Dottori (Padri) della Chiesa
+71M5	Elia e l'angelo; Elia sul monte Oreb (1 Re 19, 1-18)
+93D	Elicona, sacro alle Muse
+73A63	Elisabetta benedice Maria
+71N34	Eliseo conduce gli Aramei ciechi a Samaria
+96B652	Enea con Evandro
+96B11	Enea lascia la regione di Troia
+96B65	Enea procura aiuti ai Troiani
+94L72	Ercole al bivio, 'Herkules am Scheidewege': la scelta di Ercole
+94L333	Ercole cattura e trascina via Cerbero (una delle dodici fatiche)
+94L221	Ercole colpisce Nesso, il centauro, che tenta di rapire Deianira
+94L41	Ercole combatte con eroi, dei, o esseri favolosi
+94L411	Ercole combatte con eroi, ecc.: prima serie
+94L22	Ercole innamorato di Deianira, figlia di Eneo
+94L24	Ercole innamorato di Onfale; l' eroe viene messo a filare lana o a fare altri lavori femminili tra le ancelle, mentre Onfale indossa la sua pelle di leone e brandisce la clava e l' arco
+94L332	Ercole si impadronisce dei pomi delle Esperidi (una delle dodici fatiche)
+94L4113	Ercole solleva in aria e stritola fino alla morte il gigante Anteo
+94L4115	Ercole uccide Caco, il mostro che sputa fuoco, nella sua caverna
+94L322	Ercole uccide l'idra di Lerna (una delle dodici fatiche)
+94L122	Ercole, nella culla, strangola due serpenti
+92B572	Erma: pilastro con la testa di Mercurio, patrono dei viaggiatori
+73C1332	Erodiade persuade Salome a chiedere la testa di Giovanni Battista
+71E11	Esodo (parte I): eventi che precedono e preparano l'esodo di Israele dall'Egitto
+71E12	Esodo (parte II): viaggio di Israele al Monte Sinai
+71E13	Esodo (parte III): conclusione della legge Sinaitica e suo rinnovamento
+71E	Esodo, Levitico, Numeri, Deuteronomio, Giosuè: dalla schiavitù degli Ebrei in Egitto al loro stabilimento in Canaan
+71Q6	Ester davanti ad Assuero (Est. 5, 1-4)
+92D422	Euterpe (una delle Muse); 'Euterpe' (Ripa)
+71A422	Eva offre il frutto ad Adamo
+71A3421	Eva sorge dal corpo di Adamo
+71A342	Eva viene plasmata dalla costola di Adamo
+96A11	Fauno
+11M31	Fede, 'Fides'; 'Fede', 'Fede catholica', 'Fede christiana', 'Fede christiana catholica' (Ripa)
+73F2641	Filippo viene crocifisso (in qualche caso a testa in giù)
+11M43	Fortezza, 'Fortitudo' ~ una delle quattro Virtù Cardinali
+92B181	Ganimede, Ebe o altri danno da bere all'aquila di Giove
+71B	Genesi dai discendenti di Caino e Set ad Abramo
+71A	Genesi dalla creazione alla cacciata dal paradiso terrestre; ultimi anni di Adamo ed Eva
+96A43	Genii (spiriti tutelari romani); 'Genio' (Ripa)
+73B832	Gesù Bambino e Giovanni Battista (bambino)
+11F711	Gesù Bambino in atto di parlare o benedire ~ rappresentazioni della Madonna
+11D25	Gesù Bambino insieme ad altri personaggi
+73B28	Gesù Bambino nella mangiatoia
+11D2	Gesù Bambino o giovane (in generale) ~ religione cristiana
+73B931	Gesù è ritrovato dai genitori
+73D31	Getsemani, Monte degli Ulivi, 'Oelberg' (Mt. 26, 36-56; Mc. 14, 32-52; Lc. 22, 39-53; Gv. 18, 1-12)
+71C312	Giacobbe a Betel (Gen. 28, 11-22)
+71C313	Giacobbe al pozzo di Carran
+71C322	Giacobbe e l'angelo
+71C3222	Giacobbe lotta con l'angelo (o con un uomo) fino allo spuntare del giorno; Giacobbe si sloga l'articolazione del femore
+71A321	Giardino di Eden, paradiso
+94A6	Giasone torna a Iolco
+91C214	Giganti sepolti sotto i vulcani
+73A233	Gioacchino nel deserto con i suoi pastori
+71W5	Giobbe sul letamaio
+71V2	Giona nel ventre del pesce (Gn. 2, 1 - 3, 2)
+71V1341	Giona viene inghiottito da un grosso pesce, mostro (marino), balena, delfino o simili
+73G11	Giovanni (in atto di scrivere) sull'isola di Patmos; in qualche caso compare l'aquila accanto a lui
+73C132	Giovanni Battista arrestato e imprigionato
+73C131	Giovanni Battista biasima Erode (Erode Antipa) e Erodiade
+73C12	Giovanni Battista in atto di battezzare
+73C11	Giovanni Battista in atto di predicare (talvolta Cristo è tra i presenti)
+73C1321	Giovanni Battista in prigione
+73A17	Giovanni Battista lascia i suoi genitori per andare nel deserto
+73A18	Giovanni Battista nel deserto, accompagnato in genere dall'agnello
+73A181	Giovanni prega e medita
+92B171	Giove come re del cielo
+92B1218	Giove, in genere sotto forma di un toro bianco, rapisce Europa e la conduce attraverso le acque
+92B1222	Giove, sotto forma di cigno, e Leda
+73D26	Giuda si reca dai sommi sacerdoti, tradisce Cristo e riceve il compenso (Mt. 26, 14-16; Mc. 14, 10-11; Lc. 22, 4-6)
+71F1	Giudici 1-5
+71F2	Giudici 6-12
+71U42	Giuditta con la sua ancella nell'accampamento di Oloferne
+71U42731	Giuditta con la testa di Oloferne e la spada
+71U4273	Giuditta decapita Oloferne con la sua spada; l'ancella può essere raffigurata mentre sta di guardia
+71U4	Giuditta e Oloferne
+71U427	Giuditta e Oloferne vengono lasciati soli
+71U4274	Giuditta e la sua ancella mettono in un sacco la testa di Oloferne
+11U	Giudizio Universale
+92C173	Giunone Juga, Giunone Pronuba, protettrice del matrimonio
+92C152	Giunone chiede a Eolo di liberare i venti (Eneide I, 50-86)
+73B721	Giuseppe con Gesù Bambino (e Maria) nella sua bottega di falegname
+73B72	Giuseppe e Gesù Bambino ~ vita quotidiana a Nazaret
+71D13	Giuseppe nella casa di Putifarre; la castità di Giuseppe
+71D11	Giuseppe si attira l'odio dei suoi fratelli
+73E81	Giuseppe sul letto di morte; sono presenti Cristo e Maria
+73A572	Giuseppe tormentato per la gravidanza di Maria; annuncio a Giuseppe in sogno (Mt. 1, 19-25)
+71D12	Giuseppe venduto come schiavo e condotto in Egitto
+71D1241	Giuseppe viene gettato in una fossa (generalmente rappresentata come un pozzo o una cisterna)
+71D1252	Giuseppe viene venduto per venti pezzi d'argento
+71D124	Giuseppe è spogliato della tunica dai suoi fratelli
+11M44	Giustizia, 'Justitia'; 'Giustizia divina' (Ripa) ~ una delle quattro Virtù Cardinali
+92I71181	Gorgoneion, testa di Medusa
+92I71	Gorgoni
+92D3	Grazie (Cariti), generalmente in numero di tre; 'Gratie' (Ripa)
+11D113	IHS ('Iesus Hominum Salvator') ~ simbolo di Cristo
+97CC6	Io trasformata in giovenca: Giove trasforma Io in giovenca per sottrarla alla gelosia di Giunone (Met. I, 611)
+97CC62	Io, trasformata in giovenca, viene sorvegliata da Argo
+71C274	Isacco sdraiato nel letto benedice Giacobbe che, travestito con le vesti di Esaù, gli porta il cibo; le mani e il collo di Giacobbe sono ricoperti con le pelli dei capretti
+71C271	Isacco, ormai vecchio e quasi cieco, manda Esaù a cacciare della selvaggina; Rebecca ascolta la conversazione
+92C121	Issione abbraccia una nuvola (Nefele) che appare sotto le sembianze di Giunone
+71C319	Labano insegue Giacobbe (Gen. 31, 22-54)
+71C3194	Labano perquisisce le tende e le cose di Giacobbe per trovare i terafim
+94H213	Laocoonte e i suoi gemelli sono strangolati da due serpenti durante i preparativi per un sacrificio
+46A170	Lavoro
+94L32	Le dodici fatiche di Ercole: prima serie
+8	Letteratura
+73D633	Longino trafigge il fianco di Cristo con la lancia
+11F6	Madonna (Maria Vergine con Gesù Bambino) accompagnata o attorniata da altri personaggi
+11F5	Madonna (Maria Vergine con Gesù Bambino) raffigurata nel cielo o sulle nuvole
+11F4132	Madonna (nella mandorla) sulla mezzaluna (chiamata talvolta la Regina del Cielo)
+11F63	Madonna (o Maria Vergine senza Gesù Bambino) come patrona o protettrice, p.es. di una confraternita o di un ordine laico
+11F623	Madonna del Rosario (anche senza altre figure)
+11F624	Madonna della Misericordia, 'Mater Misericordiae', 'Schutzmantelmadonna', 'Schutzmantelmaria'
+11F61	Madonna e santi
+11F41	Madonna: Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino stretto al seno
+11F43	Madonna: Maria Vergine seduta a terra, con Gesù Bambino in grembo
+11F42	Madonna: Maria Vergine seduta o in trono, con Gesù Bambino in grembo (o davanti al seno) (Maria Vergine è talvolta rappresentata a mezza figura)
+11F4	Madonna: ovvero Maria Vergine con il Bambino, senza altri personaggi (Gesù Bambino può trovarsi in piedi su una balaustra, altare, tavolo, ecc.)
+73D132	Maria (Maddalena) unge i piedi di Cristo
+73A51	Maria (sola) che legge, prega, ecc. ~ Annunciazione
+73E31	Maria Maddalena in ginocchio davanti a Cristo, rappresentato di solito come un giardiniere, con la zappa e/o la vanga: 'Noli me tangere'
+11F	Maria Vergine
+11F2	Maria Vergine (senza Gesù Bambino)
+11F3	Maria Vergine (senza Gesù Bambino), insieme ad altri personaggi
+11F35	Maria Vergine Regina degli apostoli
+11F23	Maria Vergine a figura eretta senza Gesù Bambino
+11F231	Maria Vergine come orante (talvolta chiamata 'Blacherniotissa') ~ Maria Vergine a figura eretta senza Gesù Bambino
+11F45	Maria Vergine in ginocchio (a terra), con Gesù Bambino davanti a lei
+11F411	Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino davanti a lei
+11F4123	Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino disteso sul braccio
+11F412	Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino in braccio
+11FF412	Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino in braccio - FF - Gesù Bambino alla destra di Maria
+11F4122	Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino seduto in braccio
+11FF4122	Maria Vergine in piedi (a figura intera o a mezza figura), con Gesù Bambino seduto in braccio - FF - Gesù Bambino alla destra di Maria
+11F4121	Maria Vergine in piedi (a figura intera o a mezza figura),con Gesù Bambino in piedi in braccio
+11F244	Maria Vergine in trono (seduta, senza altri personaggi)
+11F32	Maria Vergine insieme a figure di mortali, che l'adorano, o implorano il suo aiuto
+11F251	Maria Vergine piangente
+11F731	Maria Vergine regge qualcosa, p.es. una mela, un grappolo d'uva, il crocifisso, il cardellino ~ rappresentazioni della Madonna
+11F431	Maria Vergine seduta al suolo, con Gesù Bambino in grembo davanti a lei
+11F4212	Maria Vergine seduta o in trono, Gesù Bambino seduto davanti a lei
+11F421	Maria Vergine seduta o in trono, con Gesù Bambino davanti a lei in grembo (o davanti al seno)
+11F4223	Maria Vergine seduta o in trono, con Gesù Bambino disteso sulle ginocchia (Gesù Bambino alla sinistra di Maria Vergine)
+11F4211	Maria Vergine seduta o in trono, con Gesù Bambino in piedi davanti a lei in grembo (o davanti al seno)
+11F4221	Maria Vergine seduta o in trono, con Gesù Bambino in piedi sulle ginocchia (Gesù Bambino alla sinistra di Maria Vergine)
+11F4222	Maria Vergine seduta o in trono, con Gesù Bambino seduto sulle ginocchia (Gesù Bambino alla sinistra di Maria Vergine)
+11FF4222	Maria Vergine seduta o in trono, con Gesù Bambino seduto sulle ginocchia (Gesù Bambino alla sinistra di Maria Vergine) - FF - Gesù Bambino alla destra di Maria Vergine
+11F422	Maria Vergine seduta o in trono, con Gesù Bambino sulle ginocchia (Gesù Bambino alla sinistra di Maria Vergine)
+11FF422	Maria Vergine seduta o in trono, con Gesù Bambino sulle ginocchia (Gesù Bambino alla sinistra di Maria Vergine) - FF - Gesù Bambino alla destra di Maria Vergine
+11F2412	Maria Vergine trafitta da sette spade (Maria Vergine seduta, senza altri personaggi)
+11F252	Maria Vergine trafitta da una spada
+11F21	Maria bambina
+73B131	Maria distesa su un letto o un giaciglio, guarda Gesù Bambino
+73A623	Maria e Elisabetta si stringono le mani
+73A622	Maria e Elisabetta, entrambe incinte, si abbracciano
+73B831	Maria e Gesù Bambino con Giovanni Battista (bambino)
+73A4	Maria e Giuseppe
+73B43	Maria e Giuseppe benedetti da Simeone ~ presentazione di Gesù al tempio
+73A53	Maria e l'angelo rappresentati a mezza figura ~ Annunciazione
+73A341	Maria lascia i suoi genitori per recarsi al Tempio
+73A67	Maria ritorna a casa ~ Visitazione
+73A624	Maria saluta Elisabetta, che si inginocchia davanti a lei
+73A57	Maria sospettata di adulterio
+73B13	Maria, Giuseppe e il neonato Gesù (Natività)
+92B423	Marte e Venere come amanti
+92B4233	Marte e Venere sorpresi da Vulcano; Vulcano li imprigiona in una rete
+92I711	Medusa (una delle Gorgoni)
+92D424	Melpomene (una delle Muse); 'Melpomene' (Ripa)
+92L1121	Mercurio affida il piccolo Bacco alla cura delle ninfe del monte Nisa
+94I211	Mercurio ordina a Calipso di lasciare libero Ulisse (Od. V)
+9	Mitologia classica e storia antica
+31F26	Morte come scheletro
+71E1354	Mosè (e Giosuè) scende (scendono) con le tavole della legge
+71E1222	Mosè alza il bastone e le acque si dividono (Mar Rosso); l'angelo di Dio e la colonna di nube si spostano passando dietro al popolo
+71E3361	Mosè comanda l'attacco contro i Madianiti
+71E126	Mosè fa scaturire l'acqua dalla roccia
+71E1263	Mosè percuote due volte la roccia davanti al popolo riunito e scaturisce l'acqua
+71E1343	Mosè riceve le tavole della legge da Dio
+71E134	Mosè sul Monte Sinai con le tavole della legge
+11A2	Natura Divina
+92I2	Nereidi, figlie di Nereo; ninfe marine
+92H141	Nettuno agita il mare col suo tridente
+92H1411	Nettuno placa la tempesta, 'quos ego' (Eneide I, 135)
+11F241	Nostra Signora dei Dolori; Madonna dei Dolori (Maria Vergine seduta, senza altri personaggi)
+71B35	Noè come viticoltore (Gen. 9, 18-27)
+71B3322	Noè fa uscire una colomba
+71B342	Noè, la sua famiglia e gli animali escono dall'arca (in qualche caso contemporaneamente appare l'arcobaleno dell'alleanza)
+71E31	Numeri (parte I): dal Monte Sinai a Kadesh
+71E32	Numeri (parte II), il viaggio da Cades a Moab
+71E33	Numeri (parte III):fatti accaduti a Moab
+71E3	Numeri: la peregrinazione nel deserto, gli Ebrei lasciano il Monte Sinai e raggiungono Canaan
+73	Nuovo Testamento
+11Q7674	Ognissanti
+11P315	Ordini monastici, vita monastica ~ Chiesa Cattolica Romana
+94O51	Orfeo suona la lira
+94O511	Orfeo suona la lira: alberi e rocce si muovono, animali e uccelli restano incantati
+23A1	Padre Tempo, uomo con ali e falce
+96B6522	Pallante conduce Enea da suo padre Evandro, che sta sacrificando a Ercole in un boschetto fuori dalla città degli Arcadi
+73F22381	Paolo guarisce i malati o resuscita
+92G1	Parche (Moire)
+73A22	Parentela Santa
+94C11	Paride e il pomo d'oro
+73D	Passione di Cristo
+93D1	Pegaso, il cavallo alato
+11Q765	Pentecoste, domenica di Pentecoste
+73E5	Pentecoste: lo Spirito Santo scende su (Maria e) gli apostoli, talvolta sono presenti Paolo e/o rappresentanti delle nazioni (At. 2, 1-4)
+94P21	Perseo e Andromeda
+94P211	Perseo uccide il mostro marino (o lo trasforma in pietra mostrandogli la testa della Gorgone) per liberare Andromeda; in qualche caso i genitori di Andromeda, Cefeo e Cassiopea, osservano la scena
+23S12	Persia (uno dei quattro imperi del mondo)
+73F215	Pietro a Roma
+73F2153	Pietro a Roma; contesa con Simon Mago
+73F2165	Pietro crocifisso a testa in giù
+73C622	Pietro estrae una moneta dalla bocca di un pesce e paga il tributo al tempio
+73F214	Pietro perseguitato a Gerusalemme (At. 12, 1-23)
+73F215365	Pietro prega: Simone cade e subito dopo muore
+73D3141	Pietro sguaina la spada e taglia l'orecchio a Malco
+73D36	Pilato mostra Cristo al popolo, 'Ostentatio Christi', 'Ecce Homo'(Gv. 19, 4-6)
+73D3233	Pilato si lava le mani declinando ogni responsabilità
+92N123	Plutone innamorato di Proserpina
+94I134	Polifemo scaglia una roccia contro le navi di Ulisse che ripartono (+ variante)
+32B32	Popoli africani, africani
+32B33	Popoli asiatici, asiatici
+32B31	Popoli europei
+11M41	Prudenza, 'Prudentia'; 'Prudenza' (Ripa) ~ una delle quattro Virtù Cardinali
+92D192	Psiche
+92D19217	Psiche affronta le varie prove impostele da Venere
+92D1921744	Psiche davanti a Proserpina
+92D1921743	Psiche dà da mangiare a Cerbero una focaccia
+92D192161	Psiche e Cerere
+92D1921321	Psiche e le sorelle nel palazzo
+92D19213	Psiche nel palazzo di Cupido
+92D192174	Psiche viene mandata agli inferi per prendere un cofanetto (una fiala) con la bellezza di Proserpina
+92D19218	Psiche viene portata sull'Olimpo da Mercurio
+92D192131	Psiche viene servita da mani invisibili; la toletta di Psiche
+92D192112	Psiche è condotta via in corteo funebre
+92D192134	Psiche, con in mano una lampada, spia Cupido addormentato, che viene svegliato da una goccia d'olio bollente cadutagli addosso
+92D1921745	Psiche, sulla via del ritorno, apre il cofanetto e viene sopraffatta dal sonno
+92D19211	Psiche, venerata come una dea, incorre nelle ire di Venere
+71C131311	Quando Abramo alza la mano per uccidere Isacco, un angelo trattiene la mano di Abramo
+11B51	Quaternità, la Trinità con Maria Vergine
+71C2131	Rebecca al pozzo (senza Eliezer)
+71C21	Rebecca chiesta in matrimonio
+71L1	Regno di Giuda (prima parte)
+1	Religione e Magia
+73E1	Resurrezione di Cristo
+11F611	Sacra Conversazione
+73B81	Sacra Famiglia (senza altri personaggi), 'Trinitas Terrestris'
+73B821	Sacra Famiglia con Giovanni Battista (bambino)
+73B8211	Sacra Famiglia con Giovanni Battista, è presente Elisabetta
+73B82	Sacra Famiglia con altri personaggi, p.es.: Anna
+73B8	Sacra Famiglia e rappresentazioni derivate
+73C13341	Salome con la testa del Battista sul piatto
+73C1335	Salome consegna la testa alla madre
+73C133	Salome danza durante il banchetto di Erode
+71I43	Salomone costruttore
+71I33	Salomone e la regina di Saba (1 Re 10, 1-13; 2 Cr. 9, 1-9)
+71I3131	Salomone offre sacrifici davanti all'Arca dell'alleanza
+71I31	Salomone prega per ottenere la saggezza (1 Re 3, 4-15)
+71I313	Salomone torna a Gerusalemme
+11G184	San Gabriele arcangelo
+11G32	San Michele arcangelo (con altri angeli) scaccia gli angeli ribelli dal Cielo
+11G183	San Michele arcangelo (rappresentato in genere in armatura con la spada o la lancia)
+11G31	San Michele arcangelo combatte il drago (diavolo, Satana)
+11G185	San Raffaele arcangelo
+71F37	Sansone e Dalila
+71F35	Sansone e la mascella d'asino
+71F354	Sansone uccide mille Filistei con una mascella d'asino
+91B11141	Saturno divora i suoi figli
+24C221	Saturno e i suoi figli ('Planetenkinder') ~ Acquario e Capricorno
+71H15	Saul diviene geloso di David
+73F2216	Saulo è battezzato da Anania
+11G11	Serafini
+73B42	Simeone, con Gesù Bambino in braccio, canta il cantico: 'Nunc dimittis'
+73D412	Simone il Cireneo obbligato ad aiutare Cristo nel portare la croce
+92I73	Sirene (mitologia classica)
+11M32	Speranza, 'Spes'; 'Speranza divina e certa' (Ripa) ~ una delle tre Virtù Teologali
+11E4	Spirito Santo rappresentato in altro modo, p.es. raggio/i di luce
+12A42	Tabernacolo, 'mishkan' ~ religione ebraica
+12A4	Tabernacolo, Tempio, Sinagoga e altri santuari ~ religione ebraica
+71H81	Tamar oltraggiata; storia di Tamar e Amnon (2 Sam. 13)
+93E8	Tartaro (e i dannati assegnati a quel luogo)
+81F	Tasso, 'Gerusalemme Liberata' : Usare 83(TASSO, Gerusalemme Liberata)
+11M42	Temperanza, 'Temperantia'; 'Temperanza' (Ripa) ~ una delle quattro Virtù Cardinali
+71I432	Tempio di Salomone (1 Re 5-9; 2 Cr. 2-7)
+71A4	Tentazione e Caduta (Genesi) (in generale)
+71A42	Tentazione e Caduta (scene con Adamo ed Eva insieme)
+91B1	Titani
+91B11	Titani (Saturno, Oceano, Ceo, Crio, Iperone, Giapeto)
+93E84	Tizio; due avvoltoi (o un'aquila), o un serpente, gli dilaniano il fegato
+71T6	Tobia e Sara (Tb. 7 - 9)
+71T54	Tobia e l'angelo Raffaele in viaggio, con il cane di Tobia
+71T58	Tobia e l'angelo Raffaele proseguono il viaggio; di solito Tobia è raffigurato mentre porta il pesce
+73E364	Tommaso tocca o tende la mano per toccare la piaga del costato, talvolta è Cristo stesso a guidargli la mano
+94I13	Ulisse e i suoi compagni nella terra dei Ciclopi (Od. IX)
+94I21	Ulisse viene accolto benevolmente dalla ninfa Calipso sull' isola di Ogigia (Od. XII)
+73D24	Ultima Cena (in generale) (Mt. 26, 21-35; Mc. 14, 18-31; Lc. 22, 3; 22, 15-23; Gv. 13, 21-38)
+73D731	Uomo di Dolori a mezza figura o di tre quarti
+73D7331	Uomo di Dolori con Maria
+73D73311	Uomo di Dolori con Maria e Giovanni
+73D733	Uomo di dolori insieme con altri personaggi
+73D73	Uomo di dolori, 'Imago Pietatis', 'Erbärmdebild', 'Schmerzensmann': Cristo in posizione eretta che mostra le sue ferite, di solito con la corona di spine, raffigurato insieme con gli strumenti della Passione, spesso in piedi o seduto sul sepolcro
+92D428	Urania (una delle Muse); 'Urania' (Ripa)
+91A11	Urano (Caelus), Cielo
+71	Vecchio Testamento
+92C4521	Venere al bagno
+92C421	Venere e Adone come amanti
+92C454	Venere e Cupido (Cupido non presente come mero attributo)
+92C591	Vestale/i
+73A6	Visitazione (possono essere presenti Giuseppe e/o Zaccaria) (Lc. 1, 39-56)
+11N	Vizio; i sette Peccati Capitali
+92B252	Vulcano nella sua fucina
+92B2121	Vulcano viene scacciato dall'Olimpo da Giunone
+92D19212	Zefiro porta via Psiche
+73D53	a Cristo viene offerta una bevanda inebriante, ma egli la rifiuta
+11P6	abbattimento di idoli pagani
+11P3151	abbazia, monastero, convento ~ Chiesa Cattolica Romana
+45C2	abbigliamento militare ed altro genere di equipaggiamento (uniformi, copricapi, armature, elmi, ecc.)
+41D23	abbigliamento per la parte inferiore del corpo
+41D223	abbigliamento per la parte superiore del corpo
+51H42	abbondanza; 'Abondanza', 'Abondanza maritima' (Ripa)
+33A14	abbracciarsi, baciare
+41A	abitare
+41D21	abiti che coprono l'intero corpo
+41D242	abiti da ricevimento, da festa
+41D24	abiti per occasioni particolari
+41D2	abiti, costume
+48A983111	acanto ~ elementi decorativi
+48AA983111	acanto ~ elementi decorativi - AA - stilizzata
+41D26	accessori (~ abbigliamento)
+49L6	accessori per la scrittura
+44B413	accoglienza ~ ambasciatore
+11S5	accoglimento dei beati in paradiso
+54E3	accordo, consenso
+54A2	accuratezza, diligenza; 'Diligenza' (Ripa)
+21D	acqua (uno dei quattro elementi)
+23O12	acquario (segno zodiacale di gennaio)
+55A	acquisizione e perdita
+55A1	acquisto, guadagno, profitto
+31A223	addome, ventre (essere umano)
+34A	addomesticare e allenare, addestrare animali
+73B57	adorazione dei re: i Magi fanno omaggio dei loro doni a Gesù Bambino (oro, incenso e mirra)
+73B21	adorazione del Bambino da parte di Maria
+73B23	adorazione del Bambino da parte di Maria e Giuseppe
+73B22	adorazione del Bambino da parte di Maria; è presente Giovanni Battista
+73B2	adorazione del Bambino ~ nascita di Cristo
+11D1132	adorazione del nome di Gesù
+11Q73242	adorazione dell'ostia, p.es. adorazione perpetua
+11D124	adorazione della croce
+11Q64	adorazione di (statue di) santi, p.es. ascendere candele
+73B25	adorazione di Gesù Bambino da parte dei pastori; sono presenti Maria e Giuseppe
+46B	affari, commercio e finanza
+31AA2543	afferrare, stringere qualcuno per la mano o per il polso; stringersi la mano - AA - ambedue le braccia o ambedue le mani
+71P4	aggiunte alla storia di Daniele
+47I2133	agnello
+11D1311	agnello (con la croce o il vessillo), 'Agnus Dei' ~ simbolo di Cristo
+73D3121	agonia di Cristo: per confortarlo uno o più angeli appaiono a Cristo col calice e/o la croce
+73D31211	agonia di Cristo; con tre (o con gli undici) apostoli addormentati
+23I32	agosto; 'Agosto' (Ripa)
+47I1	agricoltura
+47I	agricoltura, allevamento di bestiame, orticoltura, floricoltura, ecc.
+71E1254	al mattino la manna cade sulla terra
+25G3	alberi
+25GG3	alberi fantastici
+73A21	albero di Iesse: albero genealogico che mostra gli antenati di Cristo, che germogliano dai fianchi di Iesse
+23A	allegoria del Tempo e dell'Eternità
+47I2	allevamento, industrie e attività produttive collegate all'allevamento di bestiame
+41A14	alloggio urbano
+11Q7141	altare
+11Q714112	altare con dossale, 'reredos', polittico, retablo
+11Q714113	altare con pala d'altare
+11Q71411	altare fisso
+25H2315	alto mare
+11P316	altre 'organizzazioni' nella Chiesa Cattolica Romana
+43D	altre attività del tempo libero
+11Q767	altre festività del calendario ecclesiastico
+48A98134	altre forme curve ~ decorazioni
+11Q7313	altre funzioni religiose, p.es. benedizione
+73C46	altre guarigioni operate da Cristo
+92D19219	altre scene relative alla storia di Cupido e Psiche
+73F2238	altre scene ~ atti e viaggi di Paolo
+73F2154	altre scene ~ atti e viaggi di Pietro
+11F74	altre specifiche iconografie in cui è rappresentata la Madonna
+41A25	altre stanze
+42E36	altre strutture commemorative
+43A423	altre strutture decorative (~ ingresso trionfale, ecc.)
+11D36	altre tipologie del Cristo crocifisso in contesto non narrativo
+11D328	altre tipologie di Cristo adulto (senza altri personaggi)
+11Q71467	altre vesti liturgiche
+92D156	altri atti non aggressivi di Cupido
+81H	altri cicli : Usare 81(...)
+48A9845	altri elementi decorativi derivati da forme animali
+48A9857	altri elementi decorativi derivati da oggetti
+48A9864	altri elementi decorativi di fantasia
+11P313	altri funzionari della Chiesa Cattolica Romana: accolito, corista, lettore, ostiario, ecc.
+43A34	altri generi di divertimenti
+43C77	altri giochi di bambini
+11I35	altri gruppi di apostoli
+25F29	altri mammiferi
+73C6	altri miracoli di Cristo
+11Q7148	altri oggetti ~ la chiesa (anche oggetti non liturgici)
+31A226	altri particolari anatomici
+48C168	altri particolari architettonici
+11P3114	altri prelati, p.es.: arcidiacono, canonico (cattolico romano)
+49D6	altri rami della matematica
+11D13	altri simboli di Cristo
+44A5	altri simboli di singole nazioni, stati, distretti, ecc.
+43C36	altri sport nell'ambito dell'atletica
+48C7313	altri strumenti della categoria dei violini: viola antica, ribeca
+25F39	altri uccelli
+11Q71449	altri utensili usati in chiesa
+44B114	altro sovrano
+33C2	amanti; corteggiare, amoreggiare
+44B41	ambasciatore
+31AA2611	ambedue le gambe diritte - AA - figura umana femminile
+31AA261	ambedue le gambe nella medesima posizione - AA - figura umana femminile
+34A1	amicizia tra uomo e animale; carezzare, coccolare
+44G1	amministrazione della giustizia, giudizio
+56F2	amore (personificazioni e rappresentazioni simboliche); 'Amore (secondo Seneca)' (Ripa)
+42B1	amore dei genitori
+92D121	amore di Cupido e Psiche
+42B12	amore materno
+33C8	amorevolezza, desiderio
+92D19163	amorini che combattono animali fantastici
+92D19164	amorini con attributi delle arti, delle scienze, ecc.
+92D1916	amorini: 'amores', 'amoretti', 'putti'
+11Q331	anacoreta, eremita
+31A2	anatomia (non-sanitaria)
+31AA2	anatomia (non-sanitaria) - AA - figura umana femminile
+41D2664	anello
+25F5	anfibi
+11G	angeli
+11G21	angeli che cantano, fanno musica
+11G22	angeli che celebrano l'Eucaristia
+11G23	angeli che incoronano e/o portano foglie di palma
+11G42	angeli che soccorrono un'anima inseguita da demoni
+11G3	angeli combattenti
+11G193	angeli di aspetto femminile
+11G25	angeli in adorazione
+11G24	angeli reggicortina
+11I424	angelo (generalmente con libro) ~ simbolo di San Matteo
+11G41	angelo custode
+73D67141	angelo/i che raccolgono il sangue di Cristo nel calice
+11G1926	angelo/i con altro/i oggetto/i, p.es. armi
+11GG1926	angelo/i con altro/i oggetto/i, p.es. armi - GG - angelo/i di ordine inferiore senza le ali
+11G1925	angelo/i con calice
+11G1923	angelo/i con fiaccola
+11G1921	angelo/i con libro (cartiglio) o banderuola
+11G1922	angelo/i con scettro e/o globo
+11G1924	angelo/i con turibolo
+11G19	angelo/i di ordine inferiore
+11GG19	angelo/i di ordine inferiore - GG - angelo/i di ordine inferiore senza le ali
+11G192	angelo/i rappresentato/i come adolescente/i o adulto/i
+11GG192	angelo/i rappresentato/i come adolescente/i o adulto/i - GG - angelo/i di ordine inferiore senza le ali
+11G191	angelo/i rappresentato/i come bambino/i
+11GG191	angelo/i rappresentato/i come bambino/i - GG - angelo/i di ordine inferiore senza le ali
+73E23	angelo/i si rivolge alle pie donne ~ Resurrezione of Cristo
+43C1121	animale cacciato attacca l'uomo
+46C14	animale da tiro, veicolo a trazione animale (carrozza, ecc.)
+25F	animali
+34F1	animali che minacciano l'uomo
+46C13	animali da montare; animali da soma
+34B2	animali domestici tenuti fuori casa
+34B	animali domestici, tenuti dentro e fuori casa
+34B1	animali domestici, tenuti in casa
+25FF	animali fantastici (talvolta detti erroneamente 'grottesche'); 'Mostri' (Ripa)
+25FF41	animali fantastici ~ lacertidi
+25FF2	animali fantastici ~ mammiferi
+25FF6	animali fantastici ~ pesci
+25FF23	animali fantastici ~ predatori
+25FF4	animali fantastici ~ rettili
+25FF42	animali fantastici ~ serpenti (aspide, drago, hidrus, ecc.)
+25FF3	animali fantastici ~ uccelli
+25FF36	animali fantastici ~ uccelli acquatici
+25FF33	animali fantastici ~ uccelli predatori
+25FF24	animali fantastici ~ ungulati
+23D2	anno diviso in due stagioni
+23D4	anno diviso in quattro stagioni
+73B14	annuncio ai pastori (e/o pastorelle) nella notte; una schiera di angeli canta in cielo
+73A2341	annuncio dell'angelo ad Anna della nascita di Maria, in genere la scena si svolge in un giardino sotto un albero di alloro dove si trova un nido di passeri
+42E21	annuncio della morte
+73A11	annuncio della nascita di Giovanni Battista a Zaccaria: mentre sta offrendo incenso nel tempio gli appare un angelo (Gabriele)
+94C1	antefatti della guerra di Troia: la storia d'amore di Paride (chiamato anche Alessandro) e Elena
+73A2	antenati e parenti di Cristo
+23T23	antichità classica (epoca storica)
+71C128411	appare un angelo e rende visibile ad Agar un pozzo d'acqua
+73E37	apparizione sul lago di Genezaret (Mar di Galilea, lago di Tiberiade): pesca miracolosa (dopo la Resurrezione)
+73E3	apparizioni di Cristo dopo la Resurrezione
+11F82	apparizioni di Maria Vergine
+11G1834	apparizioni di San Michele arcangelo
+41B312	applique, lampada a muro
+44E1	approvvigionamento d'acqua (~ servizi di pubblica utilità)
+23I21	aprile; 'Aprile' (Ripa)
+41A321	aprire la porta
+11I421	aquila (generalmente con libro) ~ simbolo di San Giovanni Evangelista
+25FF332	aquila a due teste
+48A9871	arabesco ~ composizioni decorative
+46A123	araldo
+25G31	arbusti
+48C1	architettura
+41A1	architettura civica; edifici, abitazioni
+41AA1	architettura civica; edifici, abitazioni - AA - architettura civile: in un'interno
+48C1431	architettura fantastica, capricci architettonici, composizioni di fantasia con architetture non realistiche
+48C143	architettura ideale e immaginaria
+11P3113	arcivescovo, vescovo, ecc. (cattolico romano)
+43A422	arco trionfale
+48C162	arco, archivolto ~ architettura
+23O21	ariete (segno zodiacale di marzo)
+41A2541	armadio della biancheria
+45C22	armatura
+45C1	armi
+45C15	armi da arciere
+45C12	armi da botta
+45C16	armi da fuoco
+45C11	armi da lancio
+45C13	armi da taglio
+45C19	armi difensive
+45C14	armi immanicate, armi in asta (per colpire, trafiggere)
+48C515	arnesi, strumenti del pittore
+48C34	arnesi, strumenti dell'artigiano
+47D8	arnesi, sussidi, attrezzi ~ mestieri e industrie
+48C7322	arpa
+11Q714	arredi e strumenti (liturgici) della chiesa
+11Q7142	arredo d'altare
+41A241	arredo e servizi della stanza da bagno
+73D3	arresto di Cristo, processo e tortura
+45F6	arringa del generale prima della battaglia
+73B56	arrivo dei Magi a Betlemme
+73D44	arrivo di Cristo al Calvario
+73A62	arrivo di Maria in una città di Giuda
+46C514	arrivo e ritorno ~ viaggo
+48	arte
+0	arte astratta
+48A	arte e pubblico; stili e decorazioni
+48C3	arti applicate, arti e mestieri; disegno industriale
+48C53	arti grafiche
+31A546	articoli da toletta ~ lavarsi e bagnarsi
+47B	artigianato e industria
+47B181	artigianato ~ cibo
+47B11	artigianato ~ metalli
+47B18	artigianato ~ produzione di cibo, bevande, stimolanti, ecc.
+47B1	artigianato, artigiano al lavoro
+48B	artista (in generale)
+48B1	artista all'opera, nel suo studio
+25F71	artropodi
+51L5	ascesa
+31A5463	asciugamano
+46C13142	asino, somaro
+59	aspetti della condotta sociale
+49C	aspetti della scienza in generale
+41	aspetti materiali della vita quotidiana
+45K21	assedio
+45K	assedio, guerra di posizione
+54A11	assiduità, industriosità; 'Assiduità', 'Industria', 'Zelo' (Ripa)
+46A3	assistenza pubblica
+73E77	assunzione di Maria ('assumptio corporis'): viene portata in cielo dagli angeli
+73E78	assunzione di Maria associata alla sua incoronazione
+51AA3	astrattezza, incorporeità
+14	astrologia
+49E1	astronomia (e cosmografia)
+43C3	atletica, ginnastica
+45K2	attacco ~ assedio
+53B	atti della volontà
+73F272	atti di Bartolomeo
+92H14	atti e relazioni affressive, ostili di Nettuno
+92B34	atti e relazioni aggressivi, ostili di Apollo
+92D14	atti e relazioni aggressivi, ostili di Cupido
+94L4	atti e relazioni aggressivi, ostili di Ercole
+91B1114	atti e relazioni aggressivi, ostili di Saturno
+92C45	atti e relazioni non aggressivi amichevoli o neutrali di Venere
+92D15	atti e relazioni non aggressivi, amichevoli o neutrali di Cupido
+92C35	atti e relazioni non aggressivi, amichevoli o neutrali di Diana
+92B15	atti e relazioni non aggressivi, amichevoli o neutrali di Giove
+92C15	atti e relazioni non aggressivi, amichevoli o neutrali di Giunone
+94O5	atti e relazioni non aggressivi, amichevoli o neutrali di Orfeo
+92L4215	atti e relazioni non aggressivi, amichevoli o neutrali di Sileno
+92B25	atti e relazioni non aggressivi, amichevoli o neutrali di Vulcano
+71H6	atti religiosi di David
+44B12	atti ufficiali del sovrano, p.es.: atti regali (sovrano che dà udienza, concede clemenza, ecc.; sovrano e i suoi sudditi
+54A1	attività
+11G2	attività degli angeli (in Cielo)
+11K4	attività del/i diavolo/i
+47G	attività edilizie
+47I22	attività ~ bestiame
+48C8521	attore (sulla scena)
+47I15	attrezzi agricoli
+44B15241	attributi del giullare di corte
+92B38	attributi di Apollo
+92L18	attributi di Bacco
+92M18	attributi di Cerere
+92D18	attributi di Cupido
+92C38	attributi di Diana
+92B18	attributi di Giove
+92B48	attributi di Marte
+92I7118	attributi di Medusa
+92B58	attributi di Mercurio
+92C28	attributi di Minerva
+92H18	attributi di Nettuno
+92C48	attributi di Venere
+23D44	autunno, 'Autumnus'; 'Autunno' (Ripa)
+94A3	avventure degli Argonauti durante il loro viaggio nella Colchide
+94I	avventure dei Greci dopo la caduta di Troia: peregrinazioni di Ulisse (Omero, Odissea)
+54E	azione reciproca
+92L1791	baccanale: Bacco con il suo seguito ebbro di vino (thiasos)
+25F714	bachi
+31A5341	baffi
+41A541	balaustrata
+41A38	balcone
+48C8422	ballerina (arti del palcoscenico)
+48C8421	ballerino (arti del palcoscenico)
+43C94	ballo in gruppo
+31D112	bambino
+31D1122	bambino, tra fanciullezza e giovinezza (di sesso non definito)
+42A5	bambino/a (in casa)
+46B53	banca
+44A3	bandiera, colori (come simbolo dello stato, ecc.)
+45D1	bandiere e stendardi (militari)
+31A534	barba
+46C232	barca a remi, canoa, ecc.
+48C1613	base ~ colonna, pilastro
+47I2213	bastone da pastore
+41D263	bastone, bastone da passeggio
+45H3	battaglia
+91C21	battaglia dei Giganti contro gli dei; gigantomachia
+96B8	battaglia del Lazio (II): tregua e nuova battaglia (En. XI); le ultime gesta di Turno (En. XII)
+45H	battaglia, combattimento in generale
+91C	battaglie (dei Titani, Giganti, Tifone, Aloadi) con gli dei
+11Q73212	battesimo
+73C121	battesimo di Cristo sul fiume Giordano: Giovanni Battista versa l'acqua sul capo di Cristo; lo Spirito Santo scende su di Lui
+11Q7321	battesimo ~ il primo dei sette sacramenti
+73C77	beatitudini e benedizioni di Cristo
+11Q7562	benedizione (di oggetti o persone), p.es. per unzione
+11Q731131	benedizione da parte del sacerdote ~ Messa
+71C27	benedizione di Isacco (di Giacobbe e Esaù)
+57A7	benevolenza, beneficenza; 'Beneficio', 'Benevolenza o Affettione' (Ripa)
+41C12	bere
+44B152411	berretto da giullare
+47I21	bestiame
+41C71	bevande alcoliche
+41C7	bevande, stimolanti, droghe
+41D25	biancheria intima e abbigliamento da notte
+41C7111	bicchiere di vino
+41C323	bicchiere, bicchierone (da vino)
+46B3311	bilancia
+23O41	bilancia (segno zodiacale di settembre)
+31D11212	bimba ai primi passi
+31D11211	bimbo ai primi passi
+31D1121	bimbo, bambino ai primi passi (di sesso non definito) ~ età dell'uomo
+49F	biologia
+31A2214	bocca
+44G32	boia, carnefice
+45K23	bombardamento ~ assedio
+46A131	borghesia, cittadini, borghesi
+49F1	botanica
+48B11	bottega, studio dell'artista (in generale)
+41A2221	boudoir
+47I2281	bovaro
+47I211	bovini
+31A224	braccia
+41D2662	braccialo
+31A2511	braccio alzato verso l'alto
+31AA2511	braccio alzato verso l'alto - AA - ambedue le braccia o ambedue le mani
+31A25112	braccio alzato, con dita aperte
+31A2516	braccio o mano tenuti davanti al corpo
+31A2512	braccio teso in avanti
+31AA2512	braccio teso in avanti - AA - ambedue le braccia o ambedue le mani
+41B153	brace, scoria
+41B12	bruciare come processo
+47I21111	bue
+11I422	bue (generalmente con libro) ~ simbolo di San Luca
+43C11	caccia
+43C1113	caccia agli uccelli
+43C111241	caccia al cervo
+43C111243	caccia al cinghiale
+43C111261	caccia alla lepre, caccia al coniglio
+43C11123	caccia ~ animali predatori (volpe, leone)
+43C1112	caccia ~ mammiferi
+43C11126	caccia ~ roditori
+43C11124	caccia ~ ungulati
+71A6	cacciata di Adamo ed Eva dal paradiso
+43C114	cacciatore
+43CC114	cacciatore - CC - cacciatrice
+43C1142	cacciatori che cacciano
+31E3	cadavere
+49L62	calamaio
+11Q76	calendario di festività ecclesiastiche
+11Q71441	calice
+11Q73241	calice con l'ostia
+54A4	calma, tranquillità, imperturbabilità
+31A553	calzare (allacciare) o togliere (slacciare) sandali o scarpe
+41A23	camera da letto
+31A2711	camminare
+46E521	campana ~ segnalazione acustica
+45C41	campo (militare) con le tende
+45M6	campo di internamento
+25H22	canale
+25I145	canali, fiumi, ecc. (in città)
+25I245	canali, fiumi, ecc. (in un paese)
+41A542	cancello, entrata
+23O31	cancro (segno zodiacale di giugno)
+41B31	candela
+48A98711	candelabra ~ composizioni decorative
+34B11	cane
+31A1	canone, proporzioni
+31AA1	canone, proporzioni - AA - figura umana femminile
+12A5	capi e divisioni spirituali, funzionari religiosi ~ religione ebraica
+31A4441	capigliatura in eccesso
+31AA4441	capigliatura in eccesso - AA - femmina
+48C1612	capitello ~ colonna, pilastro
+41D212	capotto, mantello
+47I214	capra
+47I2142	capra (femmina)
+23O11	capricorno (segno zodiacale di dicembre)
+25F37	caradri e trampolieri
+48C85431	caratteri, personaggi nella commedia dell'arte
+48B111	caratteristiche e strumenti dello studio (artista in generale)
+11P3112	cardinale
+48C1642	cariatidi ~ architettura
+45H32	carica, attacco ~ una battaglia
+32A5	caricature (tipi umani)
+41C69	carne; natura morta con carni
+47I1451	carro di fieno
+46C145	carro, carro agricolo, carro da trasporto
+25A2	carte dei continenti e delle regioni polari
+25A3	carte dei singoli paesi o regioni
+25A4	carte di città
+25A	carte geografiche, atlante
+49L71	cartiglio
+49LL71	cartiglio - LL - cartiglio svolto, aperto
+48A9876	cartiglio ~ composizioni decorative
+41A141	casa comune; fila di case
+41A161	casa di campagna
+41A143	casa isolata, indipendente, nell'ambito di una città
+44B152	casa reale, corte; cortigiani, seguito, corteo
+44BB152	casa reale, corte; cortigiani, seguito, corteo - BB - governatrice, signora, sovrana
+25H216	cascata
+41A12	castello
+11Q313	castigo, flagellazione ~ vita ascetica
+33C812	castità
+33C81	castità contro sensualità
+41A18	casupola, capanna, casetta
+43A491	catafalco, 'castrum doloris' (~ funerali pubblici)
+25H111	catena montuosa, cime innevate
+31E2	cause di morte
+46C132	cavalcare animali diversi da cavallo, asino, mulo
+46C131	cavalcare un cavallo, asino, mulo; cavaliere
+46A124	cavaliere
+46C1314	cavalli e animali affini
+46C13141	cavallo
+46C1318	cavallo in movimento
+25H119	caverna, grotta
+71T3	cecità di Tobi (Tb. 2 - 3, 6)
+71E117313	celebrazione della prima Pasqua
+45B5	celebrazioni e festeggiamenti militari
+25F75	celenterati
+73D13	cena in Betania (in casa di Simone il lebbroso) (Mt. 26, 6-13; Mc. 14, 3-9; Gv. 12, 1-11)
+73C7262	cena in casa di Simone il Fariseo (Lc. 7, 36-50)
+92L7	centauri
+92L71	centauri (in generale)
+49D36	cerchio (~ planimetria, geometria)
+47I111	cereali, granaglie, grano (piante graminacee coltivate per alimentazione, p.es.: frumento, riso, segale, avena, mais, grano saraceno, miglio)
+42E2	cerimoniale funebre
+42D2	cerimonie nuziali
+25H153	cespugli, arbusti ~ foresta
+48C7324	cetra, mandolino, chitarra, balalaika
+11G1911	cherubini, ovvero teste di bambini con le ali
+71V1	chiamata e disobbedienza di Giona
+41A3281	chiave
+11P3161	chierici regolari, p.es.: Gesuiti, Redentoristi
+11Q712	chiesa (esterno)
+11QQ712	chiesa (esterno) - QQ - piccola chiesa, cappella
+41A622	chiosco, padiglione (per il tè), (olandese: 'theekoepel')
+11P31514	chiostro ~ monatero
+71E3243	chiunque fosse stato morso guarisce guardando il serpente di bronzo; il serpente (o drago) è di solito rappresentato su una croce a tau o su una colonna
+43A36	circo
+31A2261	circolazione del sangue
+73B3	circoncisione di Gesù ad opera del sacerdote nel tempio (Lc. 2, 21)
+46A13	cittadini
+46A17	classe operaia, lavoratori
+41D2668	cofanetto per gioielli
+43B144	cogliere fiori
+41D2661	collana
+56EE	collera e mansuetudine (concetti opposti)
+34B231	colombe, piccioni
+25F38	colombiformi e rallidi
+48C161	colonna, pilastro ~ architettura
+22C4	colori, pigmenti, vernici
+47I12	coltivazione del terreno
+47I13	coltivazione ~ agricoltura
+33B3	combattere
+43C39	combattimento (sport)
+45H33	combattimento corpo a corpo (~ una battaglia)
+71H144	combattimento tra David e Golia
+48A9814	combinazione di linee rette e curve ~ decorazioni
+49L16	combinazioni di lettere come lettera-parola (runa o ideogramma con significato di lettera e insieme di parola), anagramma, quadrato di lettere, monogramma, ecc.
+48C8543	commedia dell'arte
+71I4	commercio e costruzioni di Salomone
+92C392	compagne, ninfe di Diana; 'Ninfe di Diana' (Ripa)
+92D191	compagni di Cupido
+49D5111	compasso
+73C134	compianto e sepoltura di Giovanni Battista
+73D72	compianto sul Cristo morto
+45B7	compimento del servizio
+57A	comportamento buono e cattivo, qualità morali
+57AA	comportamento buono e cattivo, qualità morali (concetti opposti)
+51AA6	composizione
+48A987	composizioni decorative usate frequentemente
+45E	comunicazioni e trasporti
+73D245	comunione degli apostoli: Cristo distribuisce il pane (ostia) e/o il vino agli apostoli
+73F1	comunità dei discepoli (pregano, guariscono, ecc. in generale) (At. 2, 42-47; 4, 32 - 5, 11)
+51	concetti generali
+11D5	concetti mistici ~ Cristo
+48A9853	conchiglia ~ elementi decorativi
+48AA9853	conchiglia ~ elementi decorativi - AA - stilizzata
+93A2	concili degli dei (in generale)
+54A	condizione, modo di essere durante l'azione
+47I228	condurre il bestiame; mandriano
+11Q7323	confessione; 'Confessione Sacramentale' (Ripa) ~ il terzo dei sette sacramenti
+71F34	conflitto tra Sansone e i Filistei
+49BB44282	confraternita (studenti) - BB - studentessa
+71H84	confronto tra David e Assalonne
+52A5	conoscenza; 'Cognitione', 'Cognitione delle cose' (Ripa)
+11Q7561	consacrazione di una persona ~ chiesa
+11Q756	consacrazione ~ religione cristiana
+45A23	conseguenze della pace
+11Q6	consuetudini pie
+46A14	contadini
+46AA14	contadini - AA - moglie del fattore
+41A7751	contenitore di altro materiale vegetale: cesto
+41A773	contenitore di ceramica: vaso, brocca, pentola
+41A775	contenitore di legno: botte, barile
+41A7711	contenitore di metallo prezioso
+41A771	contenitore di metallo: secchio, lattina, scatola di metallo, latta, ecc.
+41A772	contenitore di pietra: vaso di pietra
+41A774	contenitore di vetro: bottiglia, brocca, vaso
+41A77	contenitori
+73F21536	contesa tra Pietro e Simon Mago al Foro (la disputa dinanzi a Nerone; può comparire anche Paolo)
+46A2	contrasti sociali
+46A21	contrasto tra ricco e povero
+33A35	conversazione, dialogo; 'conversation piece'
+11Q1	conversione e fede
+41C345	coppa, ciotola
+33C23	coppia di amanti
+41D22	copricapi e abbigliamento per la parte superiore del corpo
+41D221	copricapo
+31A25313	coprire la testa, tirare un tessuto sul volto
+54A8	coraggio, audacia, valore, virilità; 'Ardire magnanimo et generoso', 'Gagliardezza, 'Valore', 'Virtù heroica', 'Virtù dell'animo e del corpo' (Ripa)
+48C7354	cornamusa, musette
+48C5156	cornice di dipinto, ecc.
+48C7352	corno, tromba, cornetta, trombone, tuba
+44B191	corona (simbolo di sovranità)
+46A121	corona gentilizia
+25G4111	corona, ghirlanda
+48C842	corpo di ballo; ballerini sulla scena
+41A211	corridoio
+25H21	corso d'acqua
+33C31	corteggiamento unilaterale
+33C3	corteggiamento unilaterale; ricerca; difficile scelta
+33C21	corteggiare
+42E22	corteo, processione funebre
+41A51	cortile
+41A511	cortile interno di un palazzo
+57A3	coscienza; 'Coscienza' (Ripa)
+25H13	costa
+25H131	costa rocciosa
+47G3	costruzione delle strutture fuori terra (attività edilizie)
+11Q711	costruzione di una chiesa
+41A62	costruzioni e architettura da giardino
+48A72	costruzioni finalizzate a rappresentazioni teatrali
+48C853	costume di scena
+48CC853	costume di scena - CC - femminile
+41D3	costume popolare, costume regionale
+41D2423	costume storico
+41D24231	costumi da parata
+47I1421	covone
+58	creazione
+71A25	creazione degli animali
+71A3	creazione dell'uomo; il Giardino di Eden
+71A34	creazione di Eva
+58A	creazione e distruzione
+41A731	credenza, armadio
+11Q7322	cresima ~ il secondo dei sette sacramenti
+44G5	criminali
+11Q71423	croce d'altare, crocifisso
+73F2535	crocifissione di Andrea: è spogliato e legato alla croce
+73D6	crocifissione di Cristo: morte di Cristo sulla croce; Golgota (Mt. 27, 45-58; Mc. 15, 33-45; Lc. 23, 44-52; Gv. 19, 25-38)
+11Q651	crocifisso ~ devozione privata
+25F716	crostacei
+41C21	cucina
+41C2	cucina e cantina
+41D441	cucire
+41D44	cucire in casa; riparare abiti
+42E4	culto dei morti
+92L179	culto di Bacco
+11Q	culto di Dio
+12E21	culto e devozione ~ religione greca
+11Q7	culto pubblico e liturgia delle Chiese cristiane
+48C1623	cupola ~ architettura
+31A5	cura del corpo, igiene
+31AA5	cura del corpo, igiene - AA - figura umana femminile
+41D4	cura, lavaggio e stiratura degli abiti; cucire in casa
+49G22	curare, accudire i malati
+73D4	dal palazzo di Pilato al Golgota: la processione verso il Calvario (Mt. 27, 31-33; Mc. 15, 20-22, Lc. 23, 26-33; Gv. 19, 17)
+73E	dalla Resurrezione alla Pentecoste (Mt. 28; Mc. 16; Lc. 24; Gv. 20-21; At. 1, 3-11); morte di Maria e Giuseppe
+73D7	dalla deposizione di Cristo alla sepoltura (Mt. 27, 59-66; Mc. 15,46-47; Lc. 23, 53-56; Gv. 19, 39-42)
+43C9	danza
+48C84	danza, balletto, rappresentazione coreografica
+55C2	dare
+73C1333	decapitazione di Giovanni Battista
+49M4	decorazione di materiale a stampa
+48C353	decorazione piana ~ arti applicate
+48A98	decorazioni
+41A4	decorazioni (interno della casa)
+48C166	decorazioni delle superfici (particolari architettonici)
+25I15	decorazioni monumentali (in città)
+48A9821	decorazioni, elementi ornamentali ~ parti umane
+48AA9821	decorazioni, elementi ornamentali ~ parti umane - AA - stilizzata
+73A34	dedicazione (o presentazione) di Maria al Tempio: Maria sale i gradini ed è ricevuta dal sommo sacerdote
+96	dei e leggende romane
+92	dei ~ mitologia classica
+48A9844	delfino ~ elementi decorativi
+46B31	denaro
+73D71	deposizione dalla croce: Cristo viene deposto dalla croce, in genere da Nicodemo e da Giuseppe di Arimatea, che sono rappresentati in piedi sulla scala (entrambe le braccia di Cristo sono staccate dalla croce)
+73D353	derisione di Cristo, che può apparire bendato
+25K16	deserto
+56F	desiderio e avversione
+11F9	devozione a Maria Vergine
+11D42	devozione ~ Cristo
+11Q0	devozione, pietà; 'Divotione' (Ripa)
+11P3122	diacono (cattolico romano)
+11K2	diavoli sotto forma di animali (fantastici)
+11K1	diavolo in sembianze umane
+11K	diavolo/i e demoni
+23I43	dicembre; 'Decembre' (Ripa)
+11P5	diffusione del Vangelo; missione
+25H222	diga, argine (nel canale)
+44B4	diplomazia, diplomatico
+44G3	diritto penale; condanna, punizione, pena
+45B4	disciplina
+49K	discipline storiche; filologia
+57A641	discrezione, modestia; 'Discretione', 'Modestia' (Ripa)
+48C52	disegno
+49D51	disegno (matematica)
+48C142	disegno o modello architettonico
+49D5	disegno, misurazione, calcolo
+48C524	disegno, schizzo
+44F1	disordini urbani, tumulti, sommossa, rivolta
+56DD11	disperazione; 'Disperatione' (Ripa)
+45C7	disposizioni igieniche e mediche (militari)
+73B93	disputa di Gesù con i dottori nel Tempio; egli enumera i suoi argomenti contandoli sulle dita
+31A2364	distesa su un lato, con la parte superiore del corpo sollevata e il braccio poggiato
+48A9	distinzioni formali e stilistiche nell'arte
+31A464	disturbi emotivi, alienazione mentale, pazzia
+41A722	divano, sofa
+46A125	divenire cavaliere, creare cavaliere
+73A311	diverse scene relative al parto ~ nascita di Maria
+92N	divinità degli inferi
+92E5	divinità dei venti
+92M	divinità della fertilità ~ agricoltura
+92L	divinità della terra e della fertilità ~ vita sui monti e nei boschi
+92H	divinità delle acque: Nettuno e il suo ambiente
+92I	divinità delle acque: dinastia arcaica (prima serie); progenie di Ponto e mostri marini
+92K	divinità delle acque: dinastia arcaica (seconda serie): figli di Oceano, divinità dei fiumi e divinità minori delle acque
+96A2	divinità femminili romane
+92K1	divinità fluviali
+92B	divinità maggiori maschili del cielo, e loro seguito
+96A1	divinità maschili romane
+92D	divinità minori del cielo ~ attività sussidiarie, di supporto e di servizio
+92G	divinità minori del cielo ~ destino, fato, avversità
+92E	divinità minori del cielo ~ fenomeni dell'aria e del cielo
+92F	divinità minori del cielo ~ nascita e salute
+91A1	divinità primigenie, divinità degli elementi ~ mitologia classica
+96A4	divinità romane domestiche, spiriti tutelari, e spiriti dei morti
+96A	divinità romane, e divinità straniere incluse nel Pantheon classico
+44A11	divisa, emblema (come simbolo dello stato, ecc., non di persona o famiglia)
+11U22	divisione dei beati dai dannati ~ Giudizio Universale
+45D2	divisione delle forze armate
+23T2	divisione moderna di epoche storiche
+46A11	divisioni in classi (~ società)
+56BB1	dolore, dispiacere, tristezza; 'Dolore', 'Dolore di Zeusi' (Ripa)
+31D15	donna adulta
+43C912	donna che balla da sola
+41D132	donna elegante, alla mode, 'belle'
+45I	dopo la battaglia
+42D4	dopo lamorte di uno della coppia sposata
+31B1	dormire; incoscienza
+31BB1	dormire; incoscienza - BB - dormire all'aperto
+41A391	dotazione d'acqua e acque di scarico; tubazioni (di casa o edificio)
+11L	dottrina cristiana
+12A75	doveri personali ~ cultura ebraica
+25FF411	drago
+25FF422	drago (grande serpente favoloso, talvolta con ali e zampe)
+48C86	dramma musicale, rappresentazione di un dramma musicale
+41D27	drappeggio, vesti drappegiate, 'Gewandgebung'
+33B2	duellare
+45H341	duello in alternativa a una battaglia
+41A5	edifici secondari e dipendenze; recinto; cancello
+41A16	edificio rurale, p.es. casa di campagna, villa, villino
+41A13	edificio, p.es. edificio pubblico, grande magazzino
+48C741	edizione a stampa della partitura musicale
+73A33	educazione di Maria
+49B	educazione scolastica, insegnamento
+49	educazione, scienza ed istruzione
+42E351	effigie, 'gisant' (figura-ritratto sulla bara chiusa o nel 'castrum doloris'), transi
+48A982	elementi decorativi antropomorfi
+48AA982	elementi decorativi antropomorfi - AA - stilizzata
+48A9856	elementi decorativi derivati da dettagli architettonici
+48A984	elementi decorativi derivati da forme animali
+48A983	elementi decorativi derivati da forme vegetali
+48AA983	elementi decorativi derivati da forme vegetali - AA - stilizzata
+48A985	elementi decorativi derivati da oggetti
+48AA985	elementi decorativi derivati da oggetti - AA - stilizzata
+48A986	elementi decorativi di fantasia
+48A9863	elementi decorativi rocaille
+48A9846	elementi decorativi ~ animali ibridi
+48A9823	elementi decorativi ~ esseri ibridi; unione di forme umane e animali
+48C164	elementi struttirali architettonici ~ figura umana
+48A98132	ellisse e forme derivate dall'ellisse ~ decorazioni
+45C221	elmo
+56	emozione
+73C7213	emulazione tra gli apostoli (e discepoli)
+46C22	entrare in porto
+73E13	episodi immediatamente successivi alla Resurrezione
+73D2	episodi relativi all'Ultima Cena
+73D77	episodi successivi alla sepoltura di Cristo
+61B12	episodi ~ personaggi storici anonimi
+23T	epoche storiche
+45C	equipaggiamento e rifornimento (militare)
+46C27	equipaggio e passeggeri
+46C271	equipaggio ~ imbarcazione
+11Q33	eremitaggio nel deserto ~ vita ascetica
+73D55	erezione della croce: Cristo viene inchiodato alla croce, che giace al suolo
+73D56	erezione della sola croce (senza Cristo)
+96C	eroi e personaggi maschili tratti dalle leggende sulle origini di Roma
+96D	eroine e personaggi femminili tratti dalle leggende sulle origini di Roma
+25C11	eruzione (di vulcano)
+45D21	esercito
+51AA	esistenza e modi di esistere (concetti opposti)
+46C5141	essere accolti (all'arrivo, ~ viaggo)
+3	essere umano, uomo in generale
+31A444	esseri antropomorfi con parti di forma anormale
+31AA444	esseri antropomorfi con parti di forma anormale - AA - figura umana femminile
+31A44	esseri antropomorfici (leggendari o meno) con teste, membra o organi di numero abnorme, in posti anormali, o di forma anormale
+31AA44	esseri antropomorfici (leggendari o meno) con teste, membra o organi di numero abnorme, in posti anormali, o di forma anormale - AA - figura umana femminile
+31A458	esseri favolosi con ali
+31AA458	esseri favolosi con ali - AA - figura umana femminile
+23D43	estate, 'Aestas'; 'Estate' (Ripa)
+48C1427	esterno ed interno combinati insieme ~ disegno o modello architettonico
+48C1425	esterno ~ disegno o modello architettonico
+48C1411	esterno ~ raffigurazione di un edificio
+11Q7327	estrema unzione ~ l'ultimo dei sette sacramenti
+11I4111	evangelisti ispirati, p.es. dallo Spirito Santo (come colomba), dalla mano di Dio, da Maria, dall'angelo
+11I4	evangelisti, di norma con libri o cartigli (non in contesto biblico)
+98A	eventi e situazioni dalla storia classica
+61A	eventi e situazioni storiche
+61	eventi e situazioni storiche; personaggi storici
+47B111	fabbro
+41A311	facciata, fronte, prospetto principale di casa o edificio
+59B32	fama; 'Fama', 'Fama buona', 'Fama chiara' (Ripa)
+44B151	famiglia del sovrano
+44B15	famiglia del sovrano e corte
+44BB15	famiglia del sovrano e corte - BB - governatrice, signora, sovrana
+42	famiglia, discendenza
+31A51	far toletta
+46A212	fare elemosina o altro tipo di carità, p.es. distribuire cibo
+33A3	fare visita; ricevere ospiti; compagnia scelta, raffinata
+45C23	faretra
+46C283	faro
+46C2831	faro, battello-faro
+46C51	fasi del viaggio
+94L3	fatti e gesta principali di Ercole: le dodici fatiche
+41A17	fattoria
+25I3	fattoria o casa isolata in un paesaggio
+23I12	febbraio; 'Febraro' (Ripa)
+31A72	femmina; donna
+31A721	femminilità
+25H231	fenomeni connessi con il mare
+43A346	fenomeni da baraccone
+25C	fenomeni geologici
+26	fenomeni meteorologici
+22	fenomeni naturali
+58A3	fertilità, produttività, fecondità; 'Fecondità' (Ripa)
+73C611	festa di nozze a Cana (Gv. 2, 1-11)
+42D25	festa di nozze, pranzo di nozze
+12E2123	festa sacrificale ~ religione greca
+43A	festeggiamenti
+43A4	festeggiamenti pubblici
+48A9875	festone, ghirlanda ~ composizioni decorative
+41B121	fiamma
+42D1	fidanzamento
+42D	fidanzamento e matrimonio
+56D2	fiducia, fede
+91B13	figli dei Titani (Astreo, Pallante, Perse, Asteria, Latona, Atlante, Menezio)
+44B1512	figli della famiglia reale
+31A231	figura in piedi
+31A11	figura in piedi (canone, proporzioni)
+31AA11	figura in piedi (canone, proporzioni) - AA - figura umana femminile
+31AA231	figura in piedi - AA - figura umana femminile
+31A232	figura inclinata, che si poggia o sporge
+31A233	figura inginocchiata (su un ginocchio)
+31AA233	figura inginocchiata (su un ginocchio) - AA - figura umana femminile
+31A2331	figura inginocchiata su ambedue le ginocchia
+31AA2331	figura inginocchiata su ambedue le ginocchia - AA - figura umana femminile
+31A12	figura nel cerchio o quadrato, gambe e braccia alzate o tese lateralmente
+31A236	figura sdraiata (sulla schiena, supina)
+31AA236	figura sdraiata (sulla schiena, supina) - AA - figura umana femminile
+31A235	figura seduta
+31AA235	figura seduta - AA - figura umana femminile
+31A14	figura umana di proporzioni ideali, p.es. nudo accademico
+31AA14	figura umana di proporzioni ideali, p.es. nudo accademico - AA - figura umana femminile
+41D11	figurini di moda
+47H31	filare (lavorazione dei filati)
+49C2	filosofia
+41A33	finestra
+41AA33	finestra - AA - finestra finta
+25G41	fiori
+41A6711	fiori in vaso
+25G411	fiori recisi; mazzo di fiori, fascio di fiori
+48A9833	fiori ~ elementi decorativi
+48AA9833	fiori ~ elementi decorativi - AA - stilizzata
+24F	firmamento, cielo
+25H213	fiume
+48C7351	flauto, aulos, tibia
+48A98331	fleur-de-lis, giglio ~ elementi decorativi
+25D4	fluidi e gas estratti dalla terra
+41B2	focolare e stufa
+41B21	focolare, focolare centrale, camino
+48A98311	fogliame ~ elementi decorativi
+48AA98311	fogliame ~ elementi decorativi - AA - stilizzata
+48A9831	fogliame, viticci, rami ~ elementi decorativi
+48AA9831	fogliame, viticci, rami ~ elementi decorativi - AA - stilizzata
+46A7	folla, ressa
+25I11	fondazione di città
+41A3915	fontana (in un interno)
+41A651	fontana da giardino
+25I151	fontana ornamentale
+25H211	fonte, sorgente di un fiume o di un torrente
+25H15	foresta, bosco
+25HH15	foresta, bosco - HH - paesaggi ideali
+25H1123	formazioni rocciose
+48A9813	forme circolari e curve ~ decorazioni
+48A9816	forme raggiate, forme a ruota ~ decorazioni
+48A9834	forme vegetali non identificabili ~ elementi decorativi
+44E4	fornitura di elettricità (~ servizi di pubblica utilità)
+45K13	fortezza
+45K12	fortificazioni permanenti (ingegneria militare)
+45K14	fortificazioni urbane, città fortificata
+45K1	fortificazioni, opere di ingegneria militare ~ un assedio
+54F	fortuna e sfortuna
+54A7	forza, potere; 'Fortezza', 'Fortezza d'Animo e di corpo', 'Fortezza del corpo congiunta con la generosità dell'animo', 'Fortezza e valore del corpo congiunto con la prudenza e virtù del animo', 'Forza' (Ripa)
+46C12	forze umane ~ traffico e trasporto su terra
+49M43	frontespizio
+46C1463	frusta
+25G21	frutti
+48A9832	frutti e vegetali ~ elementi decorativi
+48AA9832	frutti e vegetali ~ elementi decorativi - AA - stilizzata
+47I4	frutticoltura
+73B64	fuga in Egitto e miracoli occorsi durante il viaggio
+43A49	funerali pubblici, di stato
+11Q73	funzioni religiose ~ Chiese Cristiane
+41B1	fuoco (aperto, libero, in generale)
+21C	fuoco (uno dei quattro elementi)
+41A2111	galleria (grande corridoio)
+31A225	gambe
+31A262	gambe in posizioni differenti tra loro
+31AA262	gambe in posizioni differenti tra loro - AA - figura umana femminile
+92B3412	gara tra Apollo e Marsia; le Muse fanno da giudici
+92B3411	gara tra Apollo e Pan con Tmolo, divinità della montagna, in veste di giudice, ovvero il giudizio di Mida; Mida è spesso rappresentato con le orecchie d'asino
+43C396	gare di combattimenti
+92B341	gare musicali di Apollo
+34B12	gatto
+26D	gelo, tempo glaciale
+42A26	gemelli
+23O23	gemelli (segno zodiacale di maggio)
+48C27	gemma
+41C6	generi alimentari; natura morta con cibi
+48C854	generi teatrali
+55C21	generosità, liberalità; 'Generosità', 'Liberalità' (Ripa)
+91A	genesi dell'universo ~ mitologia classica
+42B	genitori con i propri figli
+23I11	gennaio; 'Gennaro' (Ripa)
+49D65	geometria descrittiva
+12A52	gerarchia dei sacerdoti ~ religione ebraica
+11P311	gerarchia della giurisdizione ~ Chiesa Cattolica Romana
+25H1111	ghiacciaio
+25I13	giardini pubblici, parco
+41A6	giardino
+41A636	giardino alla francese o giardino architettonico; giardino all'italiana
+43C52	giochi con la scacchiera
+43C5	giochi di calcolo e di fortuna, p.es.: giochi di carte, giochi d'azzardo, giochi di pazienza, ecc.
+43C6	giochi di gruppo o in comitiva
+43C7	giochi e divertimenti dei bambini
+43C718	giochi in cui si dondola
+43C7184	giochi in cui si trasportano bambini
+43C63	giochi per tante persone con implicazioni erotiche, p.es. gara di baci
+43C71	giochi senza giocattoli
+56BB	gioia e dolore (concetti opposti)
+23R1	giorno di ventiquattro ore, giorno naturale
+23R	giorno e notte
+31D12	giovane, adolescente
+31D13	giovane, vergine, l'età più bella
+57B	giudizi relativi al comportamento
+23I23	giugno; 'Giugno' (Ripa)
+44B1524	giullare, buffone di corte
+59C	giustizia e ingiustizia
+59C2	giustizia; 'Forza alla giustitia sottoposta', 'Giustitia', 'Giustitia retta', 'Giustitia rigorosa', 'Impietà e violenza soggetta alla giustitia' (Ripa)
+71E127	gli Amaleciti vengono a combattere contro Israele (Es. 17, 8-16)
+94A4	gli Argonauti nella Colchide
+12A7	gli Ebrei, la vita degli Ebrei
+92A	gli dei olimpici insieme; Giove, Giunone, Nettuno, Cerere, Apollo, Diana, Marte, Venere, Mercurio, Minerva, Vulcano, Vesta (o Bacco)
+11I411	gli evangelisti in atto di scrivere
+23S	gli imperi del mondo
+73F21221	gli infermi sono condotti sulle strade, in modo che l'ombra di Pietro possa cadere su di loro
+73D8	gli strumenti della Passione e le cinque piaghe
+25A13	globo
+11Q73243	glorificazione, trionfo dell'Eucaristia
+43B14	godere della natura ~ piante, erbe e fiori
+43B1	godere la natura
+41D232	gonna
+41C322	gotto, nappo, calice
+44B1	governatore, signore, sovrano
+44BB1	governatore, signore, sovrano - BB - governatrice, signora, sovrana
+44B21	governo nazionale
+44B	governo, lo Stato; 'Politica', 'Auttorità o Potestà' (Ripa
+47I4222	grappolo d'uva
+25FF231	grifone (leone/aquila); 'Griffo' (Ripa)
+48A9872	grottesca ~ composizioni decorative
+11HH0	group of female saints
+25G11	gruppi di alberi
+25G12	gruppi di arbusti
+11I61	gruppi di personaggi del Vecchio Testamento
+11I1	gruppi di profeti, di norma con libri o cartigli (Isaia, Geremia, Ezechiele, Daniele, Osea, Gioele, Amos, Obadiah, Giona, Michea, Naum (Nahum), Abacuc, Sofonia, Aggeo, Zaccaria, Malachia)
+25F31	gruppi di uccelli
+48C852	gruppo di attori, troupe; attori sulla scena
+42B74	gruppo di famiglia, in particolare genitori con i figli
+46C131617	gualdrappa, coperta
+41A254	guardaroba
+44B1527	guardia del corpo del sovrano
+73C412	guarigione del cieco nato: Cristo tocca i suoi occhi con un 'unguento' di fango e saliva (Gv. 9)
+73C451	guarigione del lebbroso, inginocchiato ai piedi di Cristo (Mt. 8, 1-4; Mc. 1, 40-45; Lc. 5, 12-16)
+73F2121	guarigione del mendicante storpio alla porta Bella del tempio ad opera di Pietro e Giovanni (At. 3 - 4, 31)
+73C464	guarigione dell'emorroissa: si inginocchia davanti a Cristo dopo aver toccato la sua tunica (Mt. 9, 20-22, 5, 25-34, Lc. 8, 43-48)
+49G23	guarigione della persona malata
+73C461	guarigione della suocera di Pietro (Mt.8, 14-15; Mc. 1, 29-31; Lc. 4, 38-39)
+49G231	guarigione miracolosa
+45A1	guerra
+71L142	guerra contro i Moabiti, i Maoniti e gli Ammoniti
+71E336	guerra degli Ebrei contro Madian
+45A	guerra e pace
+41A3611	guglia (di casa o edificio)
+42Z11	harem
+31A3	i (cinque) sensi
+11Q75121	i (quindici) misteri del rosario
+73C7222	i Farisei conducono davanti a Cristo una donna accusata di adulterio (Gv. 8, 2-11)
+71H14431	i Filistei in fuga dopo la morte di Golia, inseguiti dagli Israeliti
+91C2	i Giganti, (con serpenti al posto dei piedi), e la loro battaglia contro gli dei
+94H21	i Troiani guardano con meraviglia il cavallo di legno
+96B6	i Troiani raggiungono la foce del Tevere e sbarcano nel Lazio (En. VII-VIII)
+92L1912	i baccanti
+11S6	i beati in paradiso e le loro attività
+11U23	i beati sono condotti in paradiso ~ Giudizio Universale
+24	i cieli (corpi celesti)
+11I3	i dodici apostoli (in gruppo), di norma con libri o cartigli (non in contesto biblico)
+11I32	i dodici apostoli ~ i dodici profeti
+23I	i dodici mesi (personificazioni); 'Mese in generale' (Ripa)
+11I12	i dodici profeti minori (non in contesto biblico): Osea, Gioele, Amos, Abdiah, Giona, Michea, Naum (Nahum), Abacuc, Sofonia, Aggeo, Zaccaria, Malachia
+71D192	i fratelli di Giuseppe partono per tornare a casa
+71X	i libri lirici: Salmi e Cantico dei Cantici
+71V134	i marinai, malvolentieri, gettano in mare il profeta Giona
+94	i miti eroici greci (I)
+95	i miti eroici greci (II)
+11G1	i nove cori angelici, le gerarchie angeliche
+71C	i patriarchi
+46A15	i poveri
+11I51	i quattro Padri (Dottori) della Chiesa latina insieme: Sant'Ambrogio (generalmente come vescovo), San Girolamo (generalmente come cardinale), Sant'Agostino (generalmente come vescovo), San Gregorio Magno (generalmente come papa)
+21	i quattro elementi, e l'etere, il 'quinto' elemento
+11I41	i quattro evangelisti insieme (come ritratti di autori)
+11I43	i quattro evangelisti ~ altri temi
+23S1	i quattro imperi del mondo (Babilonia, Persia, Grecia, Roma)
+11I11	i quattro profeti maggiori (non in contesto biblico): Isaia, Geremia, Ezechiele, Daniele
+11I41111	i quattro simboli degli evangelisti che li ispirano (o li assistono)
+11I42	i quattro simboli degli evangelisti, '(Quattro) Esseri viventi dell'Apocalisse'
+32A1	i quattro temperamenti; 'Complessione' (Ripa)
+71A2	i sei giorni della creazione
+31A7	i sessi (essere umano)
+11G18	i sette Arcangeli
+11N3	i sette Peccati Capitali (personificati)
+73G32	i sette angeli con le trombe ~ Apocalisse di Giovanni
+11E5	i sette doni dello Spirito Santo
+11Q732	i sette sacramenti della Chiesa Cattolica Romana
+71D115	i sogni di Giuseppe
+73D351	i soldati flagellano Cristo, che appare in genere legato alla colonna (Mt. 27,26; Mc. 15,15; Gv. 19,1)
+73D622	i soldati giocano ai dadi il possesso della tunica di Cristo ~ morte di Cristo sulla croce
+73E16	i soldati terrorizzati e/o addormentati vicino alla tomba
+92D17	iconografie particolari di Cupido
+92D179	iconografie particolari di Cupido - venerazione, tributo di onori
+92B37	iconografie particolari, aspetti allegorici di Apollo; Apollo come patrono
+92L17	iconografie particolari, aspetti allegorici di Bacco; Bacco come patrono
+92M17	iconografie particolari, aspetti allegorici di Cerere
+92C37	iconografie particolari, aspetti allegorici di Diana; Diana come patrona
+94L7	iconografie particolari, aspetti allegorici di Ercole; Ercole come patrono
+92B17	iconografie particolari, aspetti allegorici di Giove; Giove come patrono
+92C17	iconografie particolari, aspetti allegorici di Giunone; Giunone come patrona
+92B57	iconografie particolari, aspetti allegorici di Mercurio; Mercurio come patrono
+92C27	iconografie particolari, aspetti allegorici di Minerva; Minerva come patrona
+92H17	iconografie particolari, aspetti allegorici di Nettuno
+92L4217	iconografie particolari, aspetti allegorici di Sileno
+92C47	iconografie particolari, aspetti allegorici di Venere
+5	idee e concetti astratti
+71B33	il Diluvio e la distruzione dell'umanità ~ storia di Noè (Gen. 7, 10 - 8, 17)
+11D422	il Sacro Cuore
+11D423	il Sacro Sangue
+73D313	il bacio di Giuda: accompagnato da soldati con torce e lanterne bacia Cristo
+73C1334	il carnefice consegna la testa a Salome
+73C423	il centurione di Cafarnao, in ginocchio davanti a Cristo, gli chiede di guarire il suo servo (o suo figlio) paralitico (Mt. 8, 5-13; (Lc. 7, 1-10; Gv. 4, 46-54)
+44C	il cittadino e i suoi diritti
+71A354	il comandamento di prova: Dio avverte Adamo ed Eva di non mangiare frutti dall'albero della conoscenza del bene e del male
+73E1211	il coperchio del sarcofago è aperto da un angelo ~ Resurrezione di Cristo
+73D7211	il corpo di Cristo disteso al suolo
+73D7213	il corpo di Cristo nel o sul sepolcro
+73D7212	il corpo di Cristo sorretto
+73D72121	il corpo di Cristo sorretto da Maria, alla presenza di altri personaggi
+94F	il decimo anno della guerra di Troia (I parte); l'ira di Achille; dalla contesa per Briseide alla morte di Patroclo
+94G	il decimo anno della guerra di Troia (II parte); Achille torna alla guerra; le sue ultime imprese e la morte
+11A21	il divino, 'Divinità' (Ripa)
+94F83	il dolore di Achille alla notizia della morte di Patroclo
+73F223816	il figlio di Teofilo, re di Siria, è resuscitato da Pietro e Paolo
+73C86461	il figliol prodigo si inginocchia davanti al padre che lo prende tra le braccia
+73C8646	il figliol prodigo torna a casa, dove trova il padre ad attenderlo
+24C2	il genere umano influenzato dai pianeti, inclusi il sole e la luna; 'Planetenkinder'
+71H1	il giovane David alla corte di Saul
+94C113	il giudizio di Paride (alla presenza di Mercurio)
+94C1131	il giudizio di Paride (senza Mercurio)
+71I32	il giudizio di Salomone (1 Re 3, 16-28)
+71A7	il lavoro di Adamo ed Eva; infanzia di Caino e Abele
+71X1	il libro dei Salmi
+71O9	il libro di Ezechiele
+71W	il libro di Giobbe
+71V	il libro di Giona
+71E5	il libro di Giosuè (Giosuè)
+71U	il libro di Giuditta
+71O3	il libro di Isaia
+71O4	il libro di Michea
+71T	il libro di Tobia
+11Q71	il luogo del culto e il suo strumenti ~ Chiese cristiane
+11Q71111	il luogo di fondazione di Santa Maria Maggiore indicato (da Maria Vergine) tramite la presenza miracolosa della neve
+48C81	il palcoscenico e la sua attrezzatura
+11S11	il paradiso rappresentato in cielo, con nuvole (in cerchi concentrici) e luce
+94C2	il raduno degli eroi greci ~ guerra di Troia
+71E1124	il ritrovamento di Mosè: la figlia di Faraone va a fare il bagno nel fiume con le sue ancelle e scopre il bambino che galleggia sull'acqua
+71A81	il sacrificio di Caino e Abele: Abele offre un agnello, Caino generalmente un fascio di spighe
+73A2323	il sacrificio di Gioacchino viene rifiutato dal sacerdote
+71C131	il sacrificio di Isacco
+71B343	il sacrificio di Noè: vengono offerte diverse specie di animali, più comunemente un agnello, una colomba e un ariete (spesso compare contemporaneamente l'arcobaleno dell'alleanza)
+11F91	il sacro cuore di Maria Vergine
+73D6714	il sangue che sgorga dalle ferite
+73E771	il sarcofago di Maria colmo di fiori
+73F2233	il secondo viaggio missionario di Paolo (At. 16 - 18, 21)
+73E2	il sepolcro vuoto ~ Resurrezione of Cristo
+71E324	il serpente di bronzo
+71C31211	il sogno di Giacobbe, con una scala al posto della scala a pioli
+71C3121	il sogno di Giacobbe: mentre dorme in terra con una pietra per cuscino Giacobbe vede una scala a pioli posta tra la terra e il cielo, con angeli che salivano e scendevano; di solito Dio è rappresentato alla sommità della scala
+45B	il soldato; la vita del soldato
+73C524	il sudario di Lazzaro viene tolto
+71F	il tempo dei Giudici
+71F15	il tempo di Debora e Barak
+71F21	il tempo di Gedeone (Jerubbaal)
+71F3	il tempo di Sansone
+73C62	il tributo (Mt. 17, 24-27)
+73G21	il trono di Dio ~ Apocalisse
+71T5	il viaggio a Ecbatana (Tb. 4 - 6)
+41B3	illuminare; lampada
+49M41	illustrazione ~ stampati, libro
+46C25	imbarcazione a vapore, imbarcazione a motore
+46C23	imbarcazione azionata dall'uomo o da animali
+46C256	imbarcazione da trasporto, nave da carico
+11F24	immagini di Maria Vergine (seduta, senza altri personaggi)
+44B112	imperatore
+48C3534	impiallacciatura ~ arti applicate
+48C167	impiantito, pavimento ~ architettura
+41A39	impianto idrico ed elettrico
+73A141	imposizione del nome a Giovanni Battista; Zaccaria scrive il nome di Giovanni
+41B4	in fiamme
+44G31	incarcerazione
+46C29	incidente di navigazione; malattia e morte in mare
+43C112	incidenti di caccia
+46C146	incitare un animale da corsa o un animale da tiro
+31A2323	inclinata di lato
+31A2321	inclinata in avanti
+33A13	incontrarsi
+93A	incontri degli dei
+93	incontri e dimore degli dei
+73A235	incontro di Anna e Gioacchino alla Porta Aurea; sono in genere rappresentati mentre si abbracciano o baciano (immacolata concezione di Maria)
+73A2351	incontro di Gioacchino e Anna dinnanzi alla loro casa
+71C117	incontro tra Abramo e Melchisedec, il sommo sacerdote e re di Salem, che gli offre pane e vino
+31E51	incontro tra i (tre) vivi e i (tre) morti
+71T76	incontro tra i genitori e il figlio
+44B162	incoronazione
+43A433	incoronazione d'alloro
+73E792	incoronazione di Maria da parte di Cristo
+73E793	incoronazione di Maria da parte di Dio Padre e Cristo
+73E795	incoronazione di Maria da parte di uno o più angeli
+73E79	incoronazione di Maria in cielo (di norma è rappresentata la Trinità)
+73E36	incredulità di Tommaso
+31A25552	indice puntato in avanti, che indica
+31A25551	indice verso l'alto
+12H	induismo, buddismo, jainismo
+57A73	indulgenza, clemenza; 'Clemenza', 'Clemenza e Moderatione', 'Indulgenza' (Ripa)
+47H	industria tessile e dell'abbigliamento
+47B2	industrie
+31D1112	infante di sesso femminile
+31D111	infante, neonato (di sesso non definito) ~ età dell'uomo
+92L112	infanzia, educazione di Bacco
+94L12	infanzia, educazione di Ercole
+92B112	infanzia, educazione di Giove
+92B212	infanzia, educazione di Vulcano
+11T	inferno e purgatorio
+73D14	ingresso a Gerusalemme: la folla stende i propri mantelli davanti a Cristo che cavalca un'asina, agitando rami di palma (Mt. 21, 1-11, 14-16, Mc. 11, 1-11; Lc. 19, 28-40; Gv. 12, 12-19)
+43A42	ingresso trionfale e accoglienza pubblica, parata, 'entrée solemnelle', 'joyeuse entrée'
+49L17	iniziale
+49L171	iniziale istoriata
+57A631	innocenza; 'Innocenza', 'Innocenza o Purità' (Ripa)
+44B16	insediamento di un sovrano
+11P31121	insegne cardinalizie, p.es.: cappello, mantello
+45D11	insegne di compagnie, ecc.
+44B19	insegne e simboli di sovranità (corona, diadema, scettro, globo, sigillo, stendardo, manto, pettorale
+44BB19	insegne e simboli di sovranità (corona, diadema, scettro, globo, sigillo, stendardo, manto, pettorale - BB - governatrice, signora, sovrana
+11P31131	insegne episcopali, p.es.: mitra, pastorale
+11P31111	insegne papali, p.es. tiara
+45D	insegne; divisione delle forze armate; ranghi
+25H1333	insenatura costiera
+25F711	insetti
+48C35341	intarsio ~ arti applicate
+52A	intelligenza e facoltà intellettuali
+41A2	interno della casa
+11Q713	interno della chiesa
+41C211	interno di cucina
+48C1426	interno ~ disegno o modello architettonico
+48C1412	interno ~ raffigurazione di un edificio
+48C85211	interpretazione di un personaggio femminile di un'attore
+48C83	interprete, artista (teat.) (situazioni non lavorative)
+48A98781	intreccio astratto, intreccio a nodo ~ composizioni decorative
+48A98783	intreccio floreale ~ composizioni decorative
+48A98782	intreccio zoomorfo ~ composizioni decorative
+48A9878	intreccio ~ composizioni decorative
+31A41	invalidità, deformazioni
+31A4	invalidità, deformazioni e mostruosità; malattie
+31AA4	invalidità, deformazioni e mostruosità; malattie - AA - figura umana femminile
+23E41	inverno ~ attività umane (le quattro stagioni dell'anno)
+23D41	inverno, 'Hyems'; 'Inverno' (Ripa)
+25F7	invertebrati
+49L8	iscrizione
+25H14	isola
+73D244	istituzione dell'Eucaristia, ovvero Cristo che mostra o benedice il pane (l'ostia) e/o il vino (Mt. 26, 26-27; Mc. 14, 22-23; Lc. 22, 19-20; Gv. 13, 26; 1 Cor. 11, 23-25)
+73A52	l'Annunciazione: Maria, generalmente raffigurata mentre legge, è visitata dall'angelo (talora è presente una donna che origlia)
+73AA52	l'Annunciazione: Maria, generalmente raffigurata mentre legge, è visitata dall'angelo (talora è presente una donna che origlia) - AA - Maria a sinistra, l'angelo a destra
+73E42	l'Ascensione (Cristo circondato da una luce radiosa o in una mandorla)
+11Q7324	l'Eucaristia ~ il quarto dei sette sacramenti
+71E135	l'adorazione del vitello d'oro
+71A3212	l'albero della vita e l'albero della conoscenza del bene e del male
+71T57	l'angelo Raffaele dice a Tobia di tagliare alcune parti del pesce
+73A2332	l'angelo annuncia a Gioacchino la nascita di Maria
+31G	l'anima
+31G3	l'anima dopo la morte
+73A5	l'annuncio della nascita di Cristo (Lc. 1, 26-38)
+71B332	l'arca di Noè si posa sul monte Ararat
+71B331	l'arca galleggia sulle acque, mentre la vita sulla terra è distrutta ~ storia di Noè
+11G1841	l'arcangelo Gabriele annuncia a Maria Vergine e a Gesù Bambino la Passione
+73D314	l'arresto di Cristo ~ orto di Getsemani
+71M8	l'ascensione di Elia (2 Re 2, 1-18)
+73B281	l'asino e il bue alla mangiatoia ~ nascita di Cristo
+54	l'azione
+71B352	l'ebbrezza di Noè
+71C213	l'incontro al pozzo: Eliezer vede arrivare Rebecca con un'anfora
+73D352	l'incoronazione di spine: i soldati con dei bastoni premono la corona di spine sul capo di Cristo, e gli danno in mano una canna (Mt. 27, 27-31; Mc. 15, 16-20; Gv. 19, 2-3)
+11T13	l'inferno rappresentato come una caverna o una grotta
+43C1131	l'uccisione (~ caccia)
+71A82	l'uccisione di Abele: Caino lo colpisce con una pietra, una clava o una mascella, in alternativa con una spada o un altro arnese come arma
+71A311	l'uomo (Adamo) prende vita: geralmente con la rappresentazione di Dio che gli tende la mano o gli inspira la vita nelle narici
+11P	la Chiesa (come istituzione)
+11P14	la Chiesa militante (sulla terra)
+73D5	la Crocifissione: fatti precedenti alla morte di Cristo in croce (Mt. 27, 34-58; Mc. 15, 23-45; Lc. 23, 33-52; Gv. 19, 18-38)
+73G	la Rivelazione di Giovanni, l'Apocalisse
+73B69	la Sacra Famiglia (talvolta con altri personaggi) ritorna in Israele
+73C713	la Trasfigurazione: Mosè ed Elia appaiono ai lati di Cristo sul monte Tabor (Mt. 7, 1-13, Mc. 9, 2-13, Lc. 9, 28-36)
+11B31	la Trinità rappresentata come tre persone
+11B1	la Trinità rappresentata da simboli tripartiti
+11B	la Trinità, 'Trinitas coelestis'; Padre, Figlio e Spirito Santo ~ religione cristiana
+71C128	la cacciata di Agar e Ismaele
+71E524	la caduta di Gerico
+94H2	la caduta di Troia; l'incendio di Troia
+71N3	la cattura degli Aramei (2 Re 6, 8-23)
+73E343	la cena in Emmaus: i discepoli riconoscono Cristo nel momento in cui benedice o spezza il pane
+71O91	la chiamata di Ezechiele (Ez. 1 - 3)
+71B33221	la colomba torna con un ramoscello di olivo ~ storia di Noè
+71E52	la conquista di Canaan da parte degli Ebrei sotto il comando di Giosuè (parte I)
+71D19	la coppa scomparsa
+71D1922	la coppa viene ritrovata nel sacco di Beniamino
+71I4321	la costruzione del tempio
+11D121	la croce come simbolo di Cristo
+11D122	la croce con sopra il simbolo di Cristo, p.es. l'agnello
+11D12	la croce ~ simboli di Cristo
+73D551	la croce, sulla quale è inchiodato Cristo, viene eretta
+71C124	la distruzione di Sodoma e Gomorra: Lot con i suoi familiari fuggono a Segor, portando con sé i propri beni; in qualche caso un angelo mostra loro la strada
+73C7221	la donna di Samaria (Gv. 4, 4-42)
+73E74	la dormizione: Maria sul letto di morte; gli apostoli sono riuniti intorno a lei (Giovanni Evangelista può essere rappresentato mentre dorme o sogna)
+42G	la famiglia, parentela, discendenza
+31A	la figura umana (nuda); 'Corpo humano' (Ripa)
+31AA	la figura umana (nuda); 'Corpo humano' (Ripa) - AA - figura umana femminile
+73B641	la fuga in Egitto: Maria, Giuseppe e il Bambino (e talvolta altri personaggi) in cammino; Maria in genere è a cavallo di un asino
+73BB641	la fuga in Egitto: Maria, Giuseppe e il Bambino (e talvolta altri personaggi) in cammino; Maria in genere è a cavallo di un asino - BB - predominanza del paesaggio
+94C	la guerra di Troia
+73F3563	la lapidazione di Stefano; i testimoni depositano le loro vesti ai piedi di Saulo
+11D411	la leggenda della Vera Croce
+71A83	la maledizione e la fuga di Caino
+71D1331	la moglie di Putifarre afferra Giuseppe per la veste, di solito rappresentata sdraiata nel letto; Giuseppe fugge lasciandole in mano il suo mantello (in qualche caso con la raffigurazione di un bambino nudo in una culla)
+71D133	la moglie di Putifarre tenta di sedurre Giuseppe
+71V13	la nave viene sorpresa da una violenta tempesta
+96B33	la partenza dei Troiani da Cartagine
+71L1423	la raccolta del bottino
+71E12541	la raccolta della manna (in cesti e vasi)
+73C523	la resurrezione di Lazzaro ('Lazzaro, vieni fuori')
+11I21	la sibilla Tiburtina e Augusto: la sibilla mostra all'imperatore la visione della Madonna in Cielo
+94A	la storia degli Argonauti; la ricerca del vello d'oro
+71P	la storia del profeta Daniele; visioni e profezie
+96B	la storia delle peregrinazioni di Enea in Italia (Virgilio, Eneide)
+73B633	la strage degli innocenti; talvolta vi assiste Erode
+71U42741	la testa di Oloferne viene posta su un piatto e coperta con un panno
+96B3	la tragedia di Didone (En. IV)
+73G22	la visione dell'Agnello e del libro con i sette sigilli
+71O933	la visione della valle delle ossa aride (Ez. 37, 1-10)
+71C122	la visita dei tre angeli (tre uomini)
+11R	la vita umana
+31D	la vita umana e le sue età (giovane, adulto, vecchio, ecc.)
+11D1131	labaro, ovvero stendardo imperiale con il monogramma IHS
+25F41	lacertidi
+25H214	lago
+41B34	lampada a olio
+41B37	lampada elettrica
+41B311	lampadario (a più bracci), candelabro
+41A3111	lapide di facciata
+41D42	lavaggio
+31A54	lavarsi e bagnarsi
+41D4282	lavatoio pubblico, nave-lavatoio
+47H3	lavorazione dei filati
+42F3	lavori domestici, a giornata
+11V	le (sette) opere di misericordia
+73D431	le 14 stazioni francescane della Via crucis
+92D41	le Muse che agiscono insieme (come gruppo)
+11T5	le anime dannate e le loro punizioni
+48C8	le arti del palcoscenico: balletto, teatro, dramma musicale, spettacolo cinematografico
+49C1	le arti liberali, 'Artes Liberales'; le Quattro Facoltà
+48C4	le arti monumentali
+48C	le arti; artista
+71E117	le dieci piaghe
+71E1173	le dieci piaghe (parte II)
+92C	le divinità femminili maggiori del cielo e il loro seguito
+94L33	le dodici fatiche di Ercole: seconda serie
+31D1	le età dell'uomo
+92B1122	le ninfe riempiono con fiori e frutta il corno della capra Amaltea, che diviene così la Cornucopia
+73E22	le pie donne (le tre Marie) al sepolcro, o in cammino verso il sepolcro, per ungere il corpo di Cristo
+11S7	le quattordici Beatitudini
+11M4	le quattro Virtù Cardinali
+23E4	le quattro stagioni ~ attività umane
+71E11241	le schiave tirano fuori dall'acqua Mosè
+92D192132	le sorelle di Psiche sono condotte presso di lei da Zefiro
+71E3152	le spie portano via alcuni frutti da Canaan e tornano, di solito portando un grosso tralcio con grappoli d'uva su una stanga
+11M3	le tre Virtù Teologali
+94F8	le ultime imprese di Patroclo e la sua morte (Il. XVI-XVIII
+23R3	le ventiquattro ore del giorno e della notte
+47I142	legare ~ raccolto
+44G	legge e giurisprudenza
+11D4	leggende e devozioni ~ Cristo
+11Q73244	leggende e miracoli relativi all'Eucaristia (o all'ostia)
+11F83	leggende e miracoli ~ Maria Vergine
+11D41	leggende ~ Cristo
+31A311	lenti, occhiali
+11I423	leone (generalmente con libro) ~ simbolo di San Marco
+23O32	leone (segno zodiacale di luglio)
+49L1	lettera, alfabeto, carattere
+46E221	lettera, busta
+48C9	letteratura ~ arti
+11D11	lettere e monogrammi ~ simboli di Cristo
+41A761	letto
+41A7611	letto con spalliera incorporata (olandese: 'bedstee')
+31E12	letto di morte
+49N	lettura
+11T61	liberazione delle anime dal purgatorio
+11Q7147	libri ecclesiastici, rotuli, ecc.
+49M32	libro
+49MM32	libro - MM - libro aperto
+42G1	lignaggio familiare, albero genealogico, tavola genealogica
+49D32	linea (~ planimetria, geometria)
+49D322	linea curva (~ planimetria, geometria)
+48C7323	liuto, e tipi particolari di liuto, p.es.: tiorba
+11E	lo Spirito Santo
+73E51	lo Spirito Santo emana da Dio Padre (o alla presenza di Dio Padre)
+73E53	lo Spirito Santo emana dal trono vuoto di Cristo
+11E1	lo Spirito Santo rappresentato come colomba (tra le fiamme)
+11E2	lo Spirito Santo rappresentato in forma di fiamme
+71B34	lo sbarco ~ storia di Noè (Gen. 8, 18 - 9, 17)
+43A37	lo spettacolo; artisti da fiera e da circo
+43B31	locanda, caffè, pub
+41A381	loggia, veranda
+45H34	lotta (individuale) in alternativa a una battaglia
+41B5	lotta contro il fuoco, attività antincendio
+94G6	lotta tra Ulisse e Aiace Telamonio per le armi di Achille
+22C	luce
+22C3	luce soprannaturale
+22C31	luce, fulgore emanato da persone o cose
+23I31	luglio; 'Luglio' (Ripa)
+24B3	luna calante
+24B	luna come corpo celeste
+12F6	luoghi e oggetti di culto ~ religione romana
+12B6	luoghi e oggetti di culto ~ religioni non cristiani
+46B1	luoghi per trattare commerci
+11Q7111	luogo di fondazione di una chiesa indicato da un miracolo
+47D	macchine; parti di macchine; arnesi e strumenti
+42B121	madre con figlio/figli (amore materno)
+42B123	madre con figlio/figli e figlia/figlie (amore materno)
+42A3	madre con il neonato, con il piccolo
+42B7421	madre con uno o più figli (maschi) (gruppo di famiglia)
+42B742	madre/donna con uno o più figli/figlie (gruppo di famiglia)
+23I22	maggio; 'Maggio' (Ripa)
+13	magia, soprannaturale, occultismo
+57A682	magnificenza; 'Magnificenza' (Ripa)
+47I212	maiale
+31A462	malattie che colpiscono l'intero corpo
+31A46	malattie, infermità
+31AA46	malattie, infermità - AA - figura umana femminile
+25F2	mammiferi
+25F27	mammiferi acquatici
+34B22	mammiferi domestici tenuti fuori casa
+47I2211	mandria, gregge
+41C1	mangiare e bere
+31A2522	mani giunte
+31A2245	mano
+31A25162	mano sul cuore
+31A2531	mano/i piegata/e verso la testa
+56EE2	mansuetudine; 'Mansuetudine' (Ripa)
+25H2322	mare
+25H23	mare (paesaggio marino)
+25HH23	mare (paesaggio marino) - HH - paesaggi ideali
+25H232	mari, oceani, ecc., specifidi
+48C8552	marionetta
+11Q14	martire/i (generalmente con foglie di palma)
+11QQ14	martire/i (generalmente con foglie di palma) - QQ - donna/e martire/i
+73F2351	martirio di Giovanni davanti a Porta Latina: è immerso in un calderone di olio bollente, ma rimane illeso
+73F253	martirio e morte di Andrea
+73F274	martirio e morte di Bartolomeo
+73F264	martirio e morte di Filippo
+73F243	martirio e morte di Giacomo
+73F235	martirio e morte di Giovanni
+73C13	martirio e morte di Giovanni Battista (Mt. 14, 3-12; Mc. 6, 17-29)
+73F224	martirio e morte di Paolo
+73F216	martirio e morte di Pietro
+73F356	martirio e morte di Stefano
+23I13	marzo; 'Marzo' (Ripa)
+41D283	maschera
+48A98211	maschera, mascherone ~ elementi decorativi
+48AA98211	maschera, mascherone ~ elementi decorativi - AA - stilizzata
+31A71	maschio; uomo
+25H1124	masso, pietra
+49D	matematica
+49L64	materiali, superfici, su cui scrivere
+73A232	matrimonio di Gioacchino e Anna
+73A42	matrimonio di Maria e Giuseppe, 'Sposalizio': sono uniti in matrimonio dal sommo sacerdote
+71T63	matrimonio di Tobia e Sara
+11Q7326	matrimonio in chiesa ~ il sesto dei sette sacramenti
+42D3	matrimonio, coppia sposata, 'matrimonium'
+48A98333	mazzo di fiori ~ elementi decorativi
+48C26	medaglia (considerata come un oggetto di scultura, senza riguardo alla sua funzione specifica)
+42E213	medaglia commemorativa
+45B433	medaglie e altri distintivi di onore militare
+48A9877	medaglione ~ composizioni decorative
+49G	medicina
+49G1	medico, dottore
+11Q2121	meditazione su un teschio e/o un crocifisso
+92L1911	menadi, le baccanti
+46A151	mendicante
+41A712	mensole, scaffali, rastrelliera, credenza
+31B5	mente sotto l'effetto di alcolici, droghe o stimolanti
+31B	mente, spirito
+71D125	mentre i fratelli di Giuseppe stanno mangiando, una carovana di mercanti Ismaeliti (Madianiti) passa per quel luogo: Giuda propone di vender loro Giuseppe
+23I1	mesi del primo quarto dell'anno
+23I2	mesi del secondo quarto dell'anno
+23I3	mesi del terzo quarto dell'anno
+23I4	mesi della quarta parte dell'anno
+11Q7311	messa (funzione religiosa, in particolare della Chiesa Cattolica Romana)
+47	mestieri e industrie
+97O	metamorfosi di oggetti, piante, fiori
+97AA	metamorfosi di personaggi femminili in alberi
+97CC	metamorfosi di personaggi femminili in mammiferi
+97C	metamorfosi di personaggi maschili in mammiferi
+97	metamorfosi ~ mitologia classica
+45H5	mettere fuori combattimento durante una battaglia
+45HH5	mettere fuori combattimento durante una battaglia - HH - essere messi fuori combattimento
+45HH52	mettere fuori combattimento ferendo - HH - essere messi fuori combattimento
+45H53	mettere fuori combattimento uccidendo
+45H4	mettere in fuga il nemico (durante una battaglia)
+45HH4	mettere in fuga il nemico (durante una battaglia) - HH - essere messi in fuga, fuggire
+54B1	mezzi
+46B3	mezzi e metodi ausiliari impiegati in commercio e finanza
+54B	mezzi e modi dell'agire
+47I141	mietere, cogliere, falciare ~ raccolto
+11P442	militante che fa proseliti: guerra di religione, crociata, ecc.
+44B211	ministro ~ governo
+73C3	miracoli di Cristo ~ acqua
+73C4	miracoli di Cristo ~ guarigioni di malati
+73C5	miracoli di Cristo: resurrezione dalla morte
+73F234	miracoli di Giovanni
+73F212	miracoli di Pietro (talvolta in collaborazione con altri)
+11G1835	miracoli di San Michele arcangelo
+73F354	miracoli di Stefano
+73C61	miracoli legati ai pasti
+11F8	miracoli, apparizioni e leggende ~ Maria Vergine
+71E125	miracolo della manna e delle quaglie
+73C712	missione degli apostoli
+73E376	missione di Pietro ('pasce oves meas'): Cristo indica un'agnello, Pietro può essere rappresentato con le chiavi in mano
+95A	miti eroici greci (II): eroi, personaggi maschili
+95B	miti eroici greci (II): eroine, personaggi femminili
+91	miti relativi alla creazione; cosmogonia, teogonia e origine dell'uomo
+41A75	mobili decorativi
+11Q7145	mobili liturgici
+41A73	mobili per immagazzinare
+41A76	mobili per sdraiarsi
+41A72	mobili per sedersi
+41A7	mobili, arredi e oggetti domestici
+41A71	mobilio sui quali porre oggetti
+41D1	moda
+41D	moda, abbigliamente
+48C165	modanature ~ architettura
+48C1422	modello ~ architettura
+46C2231	molo, banchina, pontile
+73C421	molti infermi giacciono vicino alla piscina di Betzaeta ~ Cristo guarisce i paralitici (Gv. 5, 1-9)
+73C612	moltiplicazione dei pani e dei pesci per sfamare una folla di quattro o cinquemila persone (Mt. 14, 13-21; 15, 32-39; Mc. 6, 32-44; 8, 1-10; Lc. 9, 10-17, Gv. 6, 1-14)
+11P31522	monaca/monache
+11P3152	monaci e monache
+11P31521	monaco/i, frate/i
+46B311	moneta
+11F12	monogrammi di Maria Vergine
+25H11	monti
+25HH11	monti - HH - paesaggi ideali
+47I2131	montone
+25I152	monumento, statua
+57	moralità
+31B62	morfologia dell'espressione del volto
+31B623	morfologia dell'espressione del volto ~ bocca
+31B621	morfologia dell'espressione del volto ~ occhi
+31B6	morfologia dell'espressione umana
+31E1	morire
+31E	morte dell'essere umano
+73D63	morte di Cristo sulla croce in cui un momento specifico viene posto in particolare rilievo (a morte appena avvenuta)
+73E7	morte di Maria, assunzione e incoronazione (sono talvolta presenti alcune delle 'figlie degli Ebrei')
+94O68	morte di Orfeo: viene dilaniato dalle donne tracie durante un'orgia bacchica
+73E8	morte e incoronazione di Giuseppe
+31E2362	morte violenta per amputare, tagliare, segare, strappare parti del corpo
+31E2343	morte violenta per colpi in altre parti del corpo
+31E234	morte violenta per colpi, calci, punture o colpi di oggetti appuntiti, ecc.
+31E23621	morte violenta per decapitazione
+31E2353	morte violenta per essere legati in posizione innaturale
+31E23431	morte violenta per fustigazione
+31E236	morte violenta per mutilazione o menomazione
+31E23531	morte violenta sulla ruota
+31E235	morte violenta ~ maltrattamento, tortura
+31E23	morte violenta, omicidio; maltrattamento; cercare la morte
+11Q31	mortificazione dei sensi ~ vita ascetica
+31A45	mostri di forma mista umana ed animale; 'Mostri' (Ripa)
+31AA45	mostri di forma mista umana ed animale; 'Mostri' (Ripa) - AA - figura umana femminile
+92I7	mostri marini
+31A456	mostri ~ pesci
+31A453	mostri ~ uccelli
+43A3461	mostruosità umane ~ fenomeni da baraccone
+48A981	motivi geometrici ~ decorazioni
+31A27	movimenti del corpo umano
+31AA27	movimenti del corpo umano - AA - figura umana femminile
+31A271	movimenti in avanti del corpo umano
+45F4	movimenti o trasporto di truppe
+31A272	movimento in su e in giù
+31A276	movimento nell'aria
+47I2112	mucca
+46C13143	mulo
+25I146	mura di città
+45K141	mura ~ città fortificata
+11P31516	muro di cinta dell'abbazia
+48C7	musica
+48CC7	musica - CC - all'esterno
+48C755	musica vocale, canto
+48C72	musicista
+73A14	nascita di Giovanni Battista, talvolta è presente Maria
+73A31	nascita di Maria
+73A3	nascita e giovinezza di Maria
+73B	nascita e primo periodo della vita di Cristo
+71E112	nascita ed educazione di Mosè
+48A9851	nastro, cartiglio, banderuola ~ elementi decorativi
+2	natura
+41E1	natura morta di oggetti attinenti
+41E	natura morta di oggetti vari
+41A671	natura morta di piante, fiori, e frutta
+46C21	nave (in generale)
+46C28	navigazione e manovra
+73D331	negazione di Pietro, in genere davanti a una serva e ad alcuni soldati
+46B13	negozio, magazzino
+73D3532	nel palazzo di Pilato Cristo è schernito dai soldati (Lc. 22,63-65)
+26A32	nembo, o nubi da pioggia
+26D1	neve
+22C311	nimbo, aureola, alone ~ luce emanata da persone o cose
+92L3	ninfe (in generale); 'Ninfe in commune' (Ripa)
+46A12	nobiltà e patriziato; cavalleria, rango di cavaliere
+57A68	nobiltà; 'Nobiltà' (Ripa)
+61G	nome di manufatti e costruzioni
+61E	nomi di città, cittadine e villaggi
+61F	nomi di edifici, luoghi, strade storiche, ecc.
+61I	nomi di eventi e situazioni storiche
+61H	nomi di organizzazioni, compagnie, società, ecc.
+61D	nomi geografici di paesi, regioni, monti, fiumi, ecc.
+61C1	nomi propri di piante
+61C	nomi propri di piante o animali
+45M	non combattenti ~ guerra
+48C74	notazione di musica
+23R14	notte
+23R141	notte ~ paesaggio (anche detta 'Nox')
+92D192181	nozze di Cupido e Psiche
+26A	nubi
+26A4	nubi basse e nubi originate da correnti d'aria ascendenti
+26A3	nubi di altitudine inferiore
+42Z	nuclei familiari esotici e non monogami
+41C	nutrizione, nutrimento
+53B5	obbedienza; 'Obedienza' (Ripa)
+25I153	obelisco
+11C11	occhio que vede tutto, occhio iscritto in un triangolo ~ simbolo di Dio Padre
+45L	occupazione ~ guerra
+55C22	offerta; 'Offerta overo Oblatione' (Ripa)
+11Q61	offrire un 'ex voto'
+12A754	oggetti rituali usati in privato ~ doveri personali, cultura ebraica
+44B13	omaggio a un sovrano
+22C8	ombra
+25H2311	onda
+59B31	onore, gloria; 'Ampiezza della Gloria', 'Gloria de prencipi', 'Gloria e Honore', 'Honore', 'Sublimità della Gloria' (Ripa)
+45B43	onori militari
+48C862	opera
+48C33	opera di arte applicata
+48C24	opera di scultura, riproduzione di un'opera di scultura
+41A65	opere idriche in giardino
+71H61	opere personali di David
+54B12	opportunità, convenienza, tempestività
+73D312	orazione di Cristo nell'orto di Getsemani durante la notte
+11Q212	orazione mentale, meditazione; 'Meditatione', 'Meditatione spirituale' (Ripa)
+48C1634	ordine corinzio ~ architettura
+48C1631	ordine dorico ~ architettura
+48C163	ordini architettonici, trattati sugli ordini architettonici
+11P312	ordini sacri o maggiori ~ Chiesa Cattolica Romana
+31A2213	orecchie
+44B2	organi di governo e di rappresentanza
+31A2236	organi sessuali (umani)
+31A22361	organi sessuali maschili
+46B5	organizzazione commerciale e finanziaria
+42F	organizzazione domestica, cura e gestione della famiglia; casalinga al lavoro
+11P31531	organizzazione gerarchica in convento
+49BB4428	organizzazione studentesca - BB - studentessa
+11P31	organizzazione, funzionari e dignitari nella Chiesa Cattolica Romana; clero in generale
+11P3	organizzazione, funzionari e dignitari nella Chiesa e in istituzioni correlate
+91E	origine dell'uomo
+41A64	ornamenti da giardino
+41D266	ornamenti, gioielli
+48C35	ornare, decorare ~ arti applicate
+43A3743	orsi ~ circo
+25F62	osteitti
+11Q71444	ostensorio
+23I41	ottobre; 'Ottobre' (Ripa)
+47I213	ovino, pecora
+45A2	pace
+45A232	pace e prosperità, 'Pax et Abundantia'
+25H	paesaggi
+25HH	paesaggi - HH - paesaggi ideali
+25H2	paesaggi con acque, panorami con acque, marine (della zona temperata)
+25HH2	paesaggi con acque, panorami con acque, marine (della zona temperata) - HH - paesaggi ideali
+25K1	paesaggi delle regioni tropicali e subtropicali
+25KK1	paesaggi delle regioni tropicali e subtropicali - KK - paesaggio ideale
+25K	paesaggi delle zone non temperate, paesaggi esotici
+25KK	paesaggi delle zone non temperate, paesaggi esotici - KK - paesaggio ideale
+25H1	paesaggi di zone temperate
+25HH1	paesaggi di zone temperate - HH - paesaggi ideali
+25I8	paesaggio con (altre) costruzioni edificate dall'uomo non nominate in 25I1 - 25I7, p.es.: camposanti, luoghi di svago e villeggiatura, ecc.
+25I7	paesaggio con monumento
+25I6	paesaggio con ponte, viadotto o acquedotto
+25I9	paesaggio con rovine
+25I5	paesaggio con torre o castello
+41A11	palazzo
+41AA11	palazzo - AA - architettura civile: in un'interno
+41A111	palazzo o palazzetto nell'ambito di una città
+41A723	panca
+11D134	pane e pesce ~ simboli di Cristo
+11Q7151	pane, ostia
+41C621	pane, pagnotta
+41C62	pane, torta, pasticceria, ecc.
+48A9852	panno a pieghe, panneggio ~ elementi decorativi
+11P3111	papa
+11P31113	papa che dà udienza
+73C864	parabola del figliol prodigo (Lc. 15, 11-32)
+73C86	parabole e massime di Cristo ~ amore umano e divino
+73C82	parabole e massime di Cristo ~ animali
+12A5211	paramenti del sommo sacerdote ~ religione ebraica
+45B51	parata, corteo militare
+43A3	parco di divertimenti e circo
+42G22	parentela di secondo grado
+42G2	parentele familiari (primo, secondo, terzo e quarto grado), generazioni
+31B6235	parlare
+31A2243	parte inferiore del bracio, avambraccio
+41D428	parte interna o esterna di un edificio dove si (lava) fa il bucato
+41D233	parte o capo di abbigliamento per gambe e piede
+45F42	partenza (di truppe)
+45B12	partenza per unirsi al reparto, alla compagnia ~ servizio militare
+31A22	parti del corpo umano (scheletro escluso)
+31AA22	parti del corpo umano (scheletro escluso) - AA - figura umana femminile
+11Q73232	parti della confessione
+41A3	parti di casa o edificio
+47D7	parti di macchine
+11Q7121	parti esterne della chiesa ed edifici annessi
+11QQ7121	parti esterne della chiesa ed edifici annessi - QQ - piccola chiesa, cappella
+46C215	parti esterne della nave
+11Q7131	parti interne della chiesa
+48C16	particolari architettonici
+73D67	particolari iconografici delle scene relative alla crocifissione (da usare solo come codice aggiuntivo)
+73D671	particolari iconografici delle scene relative alla crocifissione ~ figura di Cristo (esclusivamente come codice aggiuntivo)
+42A2	parto, nascita
+71E122	passaggio del Mar Rosso
+31A27113	passeggiare
+41C4	pasto (familiare)
+35	pastorali, scene Arcadiche
+11I611	patriarchi del Vecchio Testamento (non in contesto biblico)
+54E31	patto, unità; 'Concordia', 'Concordia insuperabile', 'Concordia militare', 'Concordia di Pace', 'Unione civile' (Ripa)
+56DD1	paura, timore; 'Paura', 'Timidità o Timore', 'Timore' (Ripa)
+49G2	paziente, malato
+47I2132	pecora (femmina)
+11Q62	pellegrinaggio, pellegrino/i in cammino
+11Q621	pellegrino/i
+31A223612	pene, fallo
+11Q732321	penitenza, 'Poenitentia'; 'Contritione' (Ripa) ~ parte della confessione
+11Q12	penitenza, pentimento; 'Penitenza', 'Pentimento', 'Pentimento de'peccati', 'Purgatione de peccati' (Ripa)
+49L51	penna
+48C5153	pennelli ~ strumenti del pittore
+73D332	pentimento di Pietro
+71H2	peregrinazioni di David
+92D19216	peregrinazioni di Psiche
+94I2	peregrinazioni di Ulisse: da Calipso ai Feaci
+94I1	peregrinazioni di Ulisse; dai Ciconi a Scilla
+96B1	perigrazioni di Enea verso l'Italia: da Troia a Cartagine (En. II-III
+11P44	persecuzione di credenti
+43C91	persona che balla da sola, solista
+11Q21	persona in preghiera
+31A419	persona mutilata
+11I7	personaggi del Nuovo Testamento (non in contesto biblico, né in sezioni storico/leggendarie incluse nella sezione 73)
+11I6	personaggi del Vecchio Testamento (non in contesto biblico né presenti nelle sezioni leggendarie/storiche incluse nella sezione 71)
+81	personaggi e scene tratti da cicli letterari
+98C	personaggi femminili dalla storia classica
+11I63	personaggi femminili del Vecchio Testamento (non in contesto biblico)
+82A	personaggi letterari
+82AA	personaggi letterari femminili
+82	personaggi letterari, e scene di cui sono protagonisti
+11I72	personaggi maschili del Nuovo Testamento (non in contesto biblico
+11I62	personaggi maschili del Vecchio Testamento (non in contesto biblico)
+98B	personaggi maschili della storia classica
+61B2	personaggi storici
+61B	personaggi storici (ritratti ed episodi della vita)
+61BB	personaggi storici (ritratti ed episodi della vita) - BB - personaggi femminili
+61BB2	personaggi storici - BB - personaggi femminili
+61B1	personaggi storici anonimi
+61BB1	personaggi storici anonimi - BB - personaggi femminili
+61B113	personaggi storici anonimi ritratti in un gruppo, in un ritratto di gruppo
+41C22	personale di cucina
+42F5	personale di servizio in casa, domestici
+46B2	persone che si occupano di commercio e traffici
+25H230	personificazione del mare; 'Mare' (Ripa)
+47I10	personificazione dell'agricoltura, 'Agricultura'; 'Agricoltura', 'Studio dell'agricoltura' (Ripa)
+11P11	personificazione della Chiesa, 'Ecclesia', di norma con calice e vessillo
+23R140	personificazione della notte, 'Nox'; 'Notte', 'Carro della notte', 'Serenità della notte' (Ripa)
+25H2130	personificazione di un fiume, 'Fiumi' (Ripa)
+25L0	personificazione di una città, patrona di una città
+11R5	personificazioni della 'Vanitas', la vanità della vita umana; Fragilità humana, Fugacità delle grandezze e della gloria mondana, Meditatione della morte, Opera vana, Piacere vano, Vana gloria, Vanità (Ripa)
+31F2	personificazioni della Morte; 'Morte' (Ripa)
+33C91	personificazioni di Amore
+44A51	personificazioni di paesi, nazioni, stati, distretti, ecc.
+96A5	personificazioni romane di concetti astratti
+46B33	pesare, pesatura
+46B331	pesatrici
+43C12	pesca (sport)
+43C121	pescare con la lenza
+43C128	pescatore
+41C68	pesce; natura morta con pesci
+25F6	pesci
+23O13	pesci (segno zodiacale di febbraio)
+25F64	pesci abissali
+31A4621	peste
+25D43	petrolio; raffineria di petrolio
+31A53	pettinatura
+12A52113	pettorale ~ paramenti del sommo sacerdote
+24C	pianeti (eccetto la terra)
+48C1423	pianta ~ architettura
+48C1433	pianta ~ disegno o modello architettonico ideale o immaginario
+41A61	pianta, mappa del giardino
+25G1	piante (in generale)
+25G4	piante ed erbe
+25GG	piante fantastiche, vegetazione fantastica
+41A673	piante in vaso
+25G5	piante inferiori
+41A67	piante ornamentali
+47I11	piante ~ agricoltura
+25G	piante; vegetazione
+25H16	pianura
+41C342	piatto da portata
+41C341	piatto, piattino
+25I144	piazza
+48C244	piedistallo di un'opera di scultura (eventualmente nella forma di erma)
+51H4	pienezza
+42E311	pietra tombale, lastra sepolcrale
+71T2	pietà del vecchio Tobi (Tb. 1, 10-22)
+44E42	piloni, linee elettriche
+11Q71443	pisside
+48C51	pittura (inclusa decorazione del libro, miniatura)
+31A515	pittura del corpo o del volto
+48C5	pittura, disegno e grafica
+48C753	più di un musicista con uno strumento; orchestra; concerto
+48CC753	più di un musicista con uno strumento; orchestra; concerto - CC - concerto campestre
+49D3	planimetria, geometria
+25A1	planisfero, carta del mondo
+49D45	poliedro regolare
+42Z1	poligamia
+49D35	poligono (~ planimetria, geometria)
+44C3	politica
+34B232	pollame (gallo, gallina, pollo, ecc.)
+41A7212	poltrona, seggio
+46C112	ponte
+25I1451	ponte in città su fiumi, canali, ecc.
+32B321	popolazioni (indigene) dell'Africa subsahariana
+32B331	popolazioni indigene dell'Asia centrale e orientale
+32B2	popoli e nazionalità 'storici’
+32B3	popoli e nazionalità (diversi da quelli preistorici o ’storici’)
+32B311	popoli indigeni europei
+32B	popoli; gruppi etnici; nazionalità
+31B623591	porre un dito sulle labbra, 'Silentium'; 'Silentio' (Ripa)
+41A32	porta
+41A3211	porta aperta
+25I1461	porta di città
+41A323	porta monumentale, portico, 'aediculum'
+46C127	portare una persona
+46C1271	portare una persona sulle spalle
+41C316	portauovo
+48C1621	porticato ~ architettura
+46C223	porto
+59B	posizione sociale
+55B	possesso
+46E22	posta
+46E	posta, telegrafo e telefono; mezzi di comunicazione
+31A23	postura della figura umana
+31AA23	postura della figura umana - AA - figura umana femminile
+31A24	posture della testa
+31AA24	posture della testa - AA - figura umana femminile
+31A26	posture delle gambe
+31AA26	posture delle gambe - AA - figura umana femminile
+31A2555	posture e gesti del dito indice
+31A255	posture e gesti della mano e delle dita
+31A254	posture e gesti delle braccia e delle mani in relazione ad un'altra persona
+31AA254	posture e gesti delle braccia e delle mani in relazione ad un'altra persona - AA - ambedue le braccia o ambedue le mani
+31A253	posture e gesti delle braccia e delle mani in relazione alla testa
+31A252	posture e gesti delle braccia e delle mani in relazione tra di loro
+31A25	posture e gesti di braccia e mani
+31AA25	posture e gesti di braccia e mani - AA - ambedue le braccia o ambedue le mani
+31A251	posture e gesti di braccia e mani in generale
+31AA251	posture e gesti di braccia e mani in generale - AA - ambedue le braccia o ambedue le mani
+41A3911	pozzo
+12A3	pratiche religiose, culto, liturgia ~ religione ebraica
+12E2	pratiche rituali ~ religione greca
+12F2	pratiche rituali ~ religione romana
+25H17	prato, pascolo
+73D241	preannuncio del tradimento di Cristo, e reazione degli apostoli
+52A24	precauzione
+71E11731	precedenti della storia delle dieci piaghe
+45L31	preda, bottino
+25F23	predatori, rapaci
+43C113	prede di caccia, selvaggina, cacciagione
+11Q2	preghiera (privata); 'Oratione', 'Preghiere', 'Preghiere a Dio' (Ripa)
+11Q751	preghiera (pubblica)
+73A234	preghiera di Anna
+73D1	preludio alla Passione
+45F	preparativi per la battaglia
+73C86463	preparativi, p.es.: al figliol prodigo vengono date nuove vesti; viene macellato il vitello grasso; il figlio maggiore protesta
+42E1	preparazione della salma, toletta mortuaria
+73B4	presentazione di Gesù al tempio, di norma è presente Simeone (e Anna) (Lc. 2, 22-39)
+48A7	presentazione di un'opera d'arte al pubblico; rappresentazione, interpretazione, declamazione
+52A2	previdenza, riflessione; 'Previdenza', 'Providenza' (Ripa)
+44G311	prigione, galera
+44G3121	prigioniero con le mani legate
+45I1	prigioniero di guerra
+44G312	prigioniero; in catene
+73D4111	prima caduta ~ Cristo trasporta la croce
+23D42	primavera, 'Ver'; 'Primavera' (Ripa)
+31D11	primi anni ~ età dell'uomo
+92L11	primo periodo della vita di Bacco
+94L1	primo periodo della vita di Ercole
+92B11	primo periodo della vita di Giove
+92B21	primo periodo della vita di Vulcano
+44B15121	principe
+44B15122	principessa
+25F25	proboscidati
+11Q758	processione ~ religione cristiana
+73D32	processo a Cristo, Cristo davanti ai giudici
+42A	procreazione, nascita e primo periodo della vita
+25G2	prodotti delle piante in generale
+49M	produzione di materiale a stampa, produzione libraria
+71O	profeti prima e durante la cattività babilonese (Amos, Osea, Isaia, Michea, Sofonia, Abacuc, Geremia, Naum, Ezechiele)
+11I	profeti, sibille, evangelisti, Dottori della Chiesa; persone ~ la Bibbia (non in contesto biblico)
+91B	progenie di Urano e Gea (Titani, Ciclopi, Centimani)
+92L19	progenie, seguito, ecc. di Bacco
+92D19	progenie, seguito, ecc. di Cupido
+92C39	progenie, seguito, ecc. di Diana
+92H19	progenie, seguito, ecc. di Nettuno
+92H39	progenie, seguito, ecc. di Tritone
+92C49	progenie, seguito, ecc. di Venere
+92C59	progenie, seguito, ecc. di Vesta
+45C17	proiettili, esplosivi, ecc.
+25A12	proiezioni moderne ~ carte del mondo
+52A23	prontezza, vigilanza; 'Guardia', 'Vigilanza', 'Vigilanza per difendersi e oppugnare altri' (Ripa)
+44C31	propaganda politica
+55	proprietà
+49D7	prospettiva matematica
+41A31	prospetto di casa o edificio
+45C222	protezione per il braccio, bracciale
+11G1831	psychostasis, San Michele arcangelo pesa le anime sulla bilancia (e trafigge il diavolo)
+43C391	pugilato (sport)
+42F31	pulire (la casa)
+92B34121	punizione di Marsia: viene scorticato da Apollo
+71P34	punizione e liberazione di Daniele
+57A63	purezza, l'essere incorrotto; 'Purità' (Ripa)
+11T6	purgatorio, di norma le anime pregano o invocano l'intercessione
+73D15	purificazione del tempio (prima e seconda): Cristo caccia i cambiamonete dal tempio con la frusta (Mt. 21, 12-13; Mc. 11, 15-17; Lc. 19, 45-46; Gv. 2, 14-19)
+73B41	purificazione di Maria; l'offerta delle colombe
+49D34	quadrilatero (~ planimetria, geometria)
+49C12	quadrivio (personificazioni di Arithmetica, Geometria, Astronomia e Musica)
+48C514	quadro, pittura
+71C13131	quando Abramo alza la mano per uccidere Isacco, Dio, o la mano di Dio, trattiene la mano di Abramo
+71E1223	quando la sua gente è in salvo sulla riva, Mosè stende le mani e provoca il ritorno dell'acqua; Faraone e il suo esercito muoiono annegati (Mar Rosso)
+51H	quantità e grado
+47I14	raccolto
+48C14	raffigurazione architettonica in generale
+48C141	raffigurazione di un edificio reale (che sia esistente o esistito)
+46C214	raffigurazione di una nave
+12B1	raffigurazioni di concetti e idee ~ religioni non cristiani
+25D434	raffineria ~ petrolio
+31D11222	ragazza (bambina tra fanciullezza e giovinezza)
+31D11221	ragazzo (bambino tra fanciullezza e giovinezza)
+52	ragionamento e formazione delle idee
+45D3	ranghi (dell'esercito, della marina, dell'aviazione)
+45D31	ranghi nell'esercito
+44B11	ranghi ~ signore, sovrano
+44BB11	ranghi ~ signore, sovrano - BB - governatrice, signora, sovrana
+92BB121	rapimento di Ganimede; viene portato via in volo dallo stesso Giove sotto forma di aquila, o dall'aquila di Giove
+92N1231	rapimento di Proserpina (da parte di Plutone con il suo carro); talvolta con Diana e Minerva che tentano di salvarla
+33B	rapporti aggressivi, inimicizia, animosità
+33A	rapporti non aggressivi
+11P4	rappresentanti della Chiesa (cristiani in generale, laici, monaci, ecc.) in conflitto fra loro o con avversari
+25L	rappresentazione allegorica o simbolica di città
+11B5	rappresentazione della Trinità estesa ad altre figure
+11B3	rappresentazione della Trinità i cui una, due o tutte e tre le figure sono rappresentata in sembianze umane
+11B2	rappresentazione della Trinità in cui ciascuna Persona (Padre, Figlio e Spirito Santo) è rappresentata da un oggetto o da un animale
+11B32	rappresentazione della Trinità nella quale Dio Padre e Cristo sono rappresentati come persone, lo Spirito Santo come colomba
+11B323	rappresentazione della Trinità nella quale Dio Padre sostiene Cristo crocifisso o morto
+11B3231	rappresentazione della Trinità nella quale Dio Padre sostiene il crocifisso, 'Gnadenstuhl', Trono di Grazia
+11B21	rappresentazione della Trinità: mano (Padre), agnello (Figlio) e colomba (Spirito Santo)
+73D62	rappresentazione della morte di Cristo sulla croce, in cui un momento specifico o alcune parole di Cristo vengono posti in particolare rilievo (fino alla morte di Cristo)
+73D65	rappresentazione di Cristo sulla croce associata ad altri episodi della Passione
+25L1	rappresentazione simbolica di una città
+10	rappresentazioni (simboliche) ~ la creazione, cosmo, cosmogonia, universo e vita (in senso lato)
+23A4	rappresentazioni allegoriche degli effetti del tempo
+25B	rappresentazioni allegoriche dei continenti
+11P1	rappresentazioni allegoriche e simboliche ~ la Chiesa e la Religione
+11P12	rappresentazioni allegoriche ~ religione; 'Religione', 'Religione de SS. Mauritio e Lazaro', 'Religione vera christiana' (Ripa)
+11U11	rappresentazioni complessive del Giudizio Universale, con l'arcangelo Michele che pesa le anime (o che divide i beati dai dannati)
+11U1	rappresentazioni complessive del Giudizio Universale; Cristo (con la spada e il giglio), spesso circondato dai vegliardi e affiancato da Maria e Giovanni Battista, appare in cielo tra gli angeli (che suonano la tromba e a volte sorreggono gli strumenti della Passione); dopo la resurrezione dei morti i beati sono condotti in cielo dagli angeli, e i dannati sono trascinati all'inferno dai diavoli
+73D61	rappresentazioni comprensive dei vari episodi relativi al Golgota durante la permanenza di Cristo sulla croce; a nessuno degli eventi è dato particolare rilievo
+11S1	rappresentazioni del paradiso terrestre (e dei suoi abitanti)
+11T1	rappresentazioni dell'inferno (con diavoli e dannati), generalmente caratterizzato dalle fiamme
+11F741	rappresentazioni della Madonna in cui è presente San Giovanni Battista bambino (N.B. soltanto come codice secondario)
+73B83	rappresentazioni derivate dal tema della Sacra Famiglia
+48C30	rappresentazioni simboliche, allegorie ed emblemi ~ arti applicate
+48C80	rappresentazioni simboliche, allegorie ed emblemi ~ arti del palcoscenico
+48C801	rappresentazioni simboliche, allegorie ed emblemi ~ danza e balletto
+48C802	rappresentazioni simboliche, allegorie ed emblemi ~ il teatro
+48C901	rappresentazioni simboliche, allegorie ed emblemi ~ poesia; vedi 'Poesia' (Ripa)
+49C0	rappresentazioni simboliche, allegorie ed emblemi ~ scienza, 'Scientia'; 'Scienza', 'Studio' (Ripa)
+12EE13	rappresentazioni ~ dee, semidee, eroine, ecc. (religione greca)
+12E13	rappresentazioni ~ dei, eroi, ecc. (religione greca)
+12H13	rappresentazioni ~ dei, semidei, eroi, ecc. (induismo, buddismo, jainismo)
+12B13	rappresentazioni ~ divinità, semidei, eroi, ecc. (religioni non cristiani)
+44B113	re
+44BB113	re - BB - governatrice, signora, sovrana
+41A54	recinto, muro, palizzata
+41C32	recipiente per bere
+11Q7144	recipienti e utensili utilizzati in chiesa
+11Q7512	recita del rosario
+25H114	regione di bassa collina
+92L412	relazioni amorose dei satiri
+92B32	relazioni amorose di Apollo ~ personaggi femminili
+92L12	relazioni amorose di Bacco ~ personaggi femminili
+92D12	relazioni amorose di Cupido
+92C32	relazioni amorose di Diana
+94L2	relazioni amorose di Ercole
+92I222	relazioni amorose di Galatea
+92B12	relazioni amorose di Giove
+92B121	relazioni amorose di Giove ~ personaggi femminili (I): prima serie
+92B122	relazioni amorose di Giove ~ personaggi femminili (II): seconda serie
+92BB12	relazioni amorose di Giove ~ personaggi maschili
+92C12	relazioni amorose di Giunone
+92B42	relazioni amorose di Marte
+92H12	relazioni amorose di Nettuno
+92H121	relazioni amorose di Nettuno: prima serie
+94P2	relazioni amorose di Perseo
+92N12	relazioni amorose di Plutone
+92C42	relazioni amorose di Venere
+33C	relazioni tra i sessi
+33	relazioni, rapporti tra singoli individui
+11	religione cristiana
+12A	religione e cultura ebraica
+12E	religione greca (incluse le culture minoica e micenea)
+12F	religione romana (inclusa la religione etrusca)
+12B	religioni e culti non cristiani (in generale)
+12	religioni non cristiane (incluse istituzioni, consuetudini e antiche usanze
+12N	religioni tradizionali cinesi
+11M311	religiosità ~ le tre Virtù Teologali
+11Q652	reliquie (e reliquiari)
+59B3	reputazione, rinomanza; 'Splendore del nome' (Ripa)
+41B15	residui della combustione
+11U21	resurrezione dei morti ~ Giudizio Universale
+51L51	resurrezione; 'Resurrettione' (Ripa)
+25F4	rettili
+71H8	ribellioni contro David (2 Sam. 13-20; 1 Re 1)
+55B1	ricchezza, opulenza; 'Opulenza', 'Richezza' (Ripa)
+71E315	ricognizione in Canaan
+55A12	ricompensa, 'Praemium'; 'Premio', 'Remuneratione' (Ripa)
+43A1	ricorrenze, celebrazioni periodiche, feste popolari
+45B61	ricreazione ~ soldato fuori servizio
+22C5	riflesso (luce in generale)
+94A62	ringiovanimento di Esone
+73F3572	rinvenimento e traslazione delle reliquie di Stefano
+45C4	riparo ~ servizio militare
+31B19	riposare
+73B65	riposo durante la fuga in Egitto
+42D6	ripudiare la moglie
+57B2	rispetto, riverenza, stima
+42E	riti e pratiche funerarie
+45B73	ritorno dei soldati alla vita civile, ritorno a casa
+71T7	ritorno di Tobia (Tb. 10 - 13)
+61B11	ritratti di personaggi storici anonimi
+61BB11	ritratti di personaggi storici anonimi - BB - personaggi femminili
+61B111	ritratti di personaggi storici anonimi senza altre figure
+61BB111	ritratti di personaggi storici anonimi senza altre figure - BB - personaggi femminili
+48C831	ritratto di artista ~ palcoscenico
+48C8311	ritratto di ballerino
+48C723	ritratto di musicista
+48C93	ritratto di scrittore
+46C1312	ritratto ufficiale equestre
+48B3	ritratto, autoritratto dell'artista
+48C42	ritratto, autoritratto di artista (arti maggiori)
+48C532	ritratto, autoritratto di artista grafico
+48C513	ritratto, autoritratto di pittore
+48C23	ritratto, autoritratto di scultore
+11D4116	ritrovamento, invenzione della Vera Croce
+45F3	riunione di forze militari; mobilitazione, concentrazione di truppe, ecc.
+45B54	riunione di soldati e/o ufficiali
+47I221	riunire il bestiame, mandriano, mandriana, pastore, pastorella, vaccaro, ecc.
+41A41	rivestimento delle pareti
+41A43	rivestimento di pavimento
+41A42	rivestimento, tappezzeria (di una stanza)
+44F	rivoluzione, rivolta
+25H112	rocce
+25F26	roditori
+48A98341	rosetta ~ elementi decorativi
+48C149	rovine di un edificio
+25H212	ruscello
+45L3	saccheggio ~ soldati
+11P3121	sacerdote (cattolico romano)
+11Q75	sacramentali
+55C221	sacrificio
+12E212	sacrificio (pratiche rituali) ~ religione greca
+12A32	sacrificio di animali ~ religione ebraica
+12E2122	sacrificio umano ~ religione greca
+71I3	saggezza di Salomone
+52A51	saggezza; 'Sapienza', 'Sapienza humana', 'Sapienza vera' (Ripa)
+23O43	sagittario (segno zodiacale di novembre)
+25FF412	salamandra (animale fantastico); la salamandra come spirito del fuoco
+41A222	salone, 'salon'
+33A1	salutare
+41B53	salvare dal fuoco
+31A22611	sangue
+11HH	sante
+11H	santi
+42E33	sarcofago
+92L41	satiri (in generale)
+92L4	satiri, fauni, Sileni
+41A34	scala
+41B	scaldare, illuminare, ventilare
+41A35	scalinata principale, di facciata
+41D2332	scarpe, sandali
+48C145	scenari architettonici in pitture, sculture, ecc.
+83	scene da particolari opere letterarie
+11U2	scene isolate ~ Giudizio Universale
+73E41	scene precedenti l'Ascensione
+11R51	scene simboleggianti la 'Vanitas'
+48C811	scenografia
+44B192	scettro, bastone (simbolo di sovranità)
+44BB192	scettro, bastone (simbolo di sovranità) - BB - governatrice, signora, sovrana
+31A21	scheletro (umano)
+43C631	schiaffo del soldato, 'haute coquilles', 'la main chaude' (giochi per tante persone)
+46A18	schiavitù; servi e schiavi
+49E	scienza e tecnica
+25F22	scimmie, scimmie antropomorfe
+12O	scintoismo
+25H1312	scogliera, rupe ~ costa
+23O42	scorpione (segno zodiacale di ottobre)
+48C91	scrittore, poeta, autore
+49L	scrittura e lettere
+49L7	scrittura manuale, testo scritto
+48C2	scultura
+49B2	scuola elementare; classe, corso
+31A2361	sdraiata sulla schiena (supina) con la parte superiore del corpo sollevata
+73D4112	seconda caduta ~ Cristo trasporta la croce
+11Q73112	seconda parte della messa
+41A721	sedia
+31A2351	seduta a terra
+31AA2353	seduta con braccia o gomiti sulle ginocchia - AA - figura umana femminile
+31A2352	seduta su un elemento rialzato
+31AA2352	seduta su un elemento rialzato - AA - figura umana femminile
+31AA2628	seduti, con il lato di un piede posto sul ginocchio dell'altra gamba - AA - figura umana femminile
+46E52	segnalazione acustica con uno strumento
+46E5	segnalazioni acustiche
+23O4	segni zodiacali dell'autunno
+23O3	segni zodiacali dell'estate
+23O1	segni zodiacali dell'inverno
+23O2	segni zodiacali della primavera
+46C13161	sella e briglia (selleria)
+46C1316	sellare e imbrigliare
+43C111	selvaggina, animali cacciati
+31A44411	selvaggio
+31AA44411	selvaggio - AA - femmina
+48C1611	semicolonna, lesena ~ architettura
+41A37	seminterrato, cantina
+42E23	sepoltura
+73D76	sepoltura di Cristo (talvolta eseguita dagli angeli)
+73E75	sepoltura di Maria
+25D435	serbatoi
+48C1421	serie di disegni, modelli, ecc. relativi a un progetto architettonico
+25F42	serpenti
+41A328	serratura ~ porta
+44E	servizi di pubblica utilità
+41C34	servizio da pranzo
+41C31	servizio da tavola
+41C33	servizio da tè e da caffè
+46E2	servizio postale
+23I33	settembre; 'Settembre' (Ripa)
+48C1424	sezione ~ disegno o modello architettonico
+48C1434	sezione ~ disegno o modello architettonico ideale o immaginario
+41A72111	sgabellino, posapiedi
+41A7211	sgabello
+11I2	sibille
+45A20	simboli allegorie della pace, 'Pax'; 'Pace' (Ripa)
+31F1	simboli della Morte
+44A	simboli dello stato (in generale)
+11R7	simboli di 'Vanitas'
+11D131	simboli di Cristo ~ animali
+11C1	simboli di Dio Padre
+11F11	simboli di Maria Vergine
+11F111	simboli di Maria Vergine dalle litanie
+31F	simboli e personificazioni della Morte
+11D1	simboli e prefigurazioni di Cristo
+11F1	simboli e prefigurazioni di Maria Vergine
+14C	simboli e segni astrologici
+48C751	singola persona con strumento musicale, non intenta a suonare
+48C752	singola persona mentre suona uno strumento
+48C7522	singola persona mentre suona uno strumento a corda (pizzicato)
+48C7525	singola persona mentre suona uno strumento a fiato
+92D42	singole Muse
+92L32	singole ninfe
+11E54	singole rappresentazioni dei sette doni dello Spirito Santo
+92L42	singoli satiri
+73D82	singoli strumenti della Passione
+51AA61	sintesi
+31A4531	sirena, uccello favoloso con testa di donna
+48C7353	siringa (mus.)
+46A6	società, associazioni e consigli di amministrazione
+4	società, civilizzazione, cultura
+31AA461	sofferenza, dolore - AA - figura umana femminile
+92D16	sofferenze, avversità di Cupido
+94O6	sofferenze, avversità di Orfeo
+41C13	soffiare per raffreddare il cibo prima di mangiare
+41A44	soffitto (decorato)
+73F357	soggetti narrativi ~ Stefano dopo la morte
+96B14	soggiorno di Enea a Creta; la peste devasta i Troiani
+73A65	soggiorno di Maria in casa di Elisabetta ~ Visitazione
+41A221	soggiorno, salotto, stanza di soggiorno
+45B6	soldato fuori servizio
+45D313	soldato semplice
+45B1	soldato/i prima dell'arruolamento
+24A	sole come corpo celeste
+24A6	sole rappresentato come volto, ruota, ecc.
+43C361	sollevamento pesi
+12A521	sommo sacerdote ~ religione ebraica
+41A78	soprammobili, chincaglierie, ninnoli
+54F12	sorte, fortuna, fato; 'Fato', 'Fortuna', 'Fortuna aurea', 'Fortuna buona', 'Fortuna pacifica overo clemente', 'Sorte' (Ripa)
+11Q715	sostanze utilizzate in chiesa
+31A511	specchio
+11D123	specifiche forme di croce
+11F72	specifiche iconografie di Gesù Bambino e Maria Vergine ~ rappresentazioni della Madonna
+11F71	specifiche iconografie di Gesù Bambino ~ rappresentazioni della Madonna (N.B. da usarsi soltanto come codice secondario)
+11F73	specifiche iconografie di Maria Vergine ~ rappresentazioni della Madonna (N.B. soltanto come codice secondario)
+11G4	specifiche iconografie in cui sono rappresentati gli angeli, p.es. in atto di intervenire nelle vicende umani
+11F7	specifiche iconografie ~ rappresentazioni della Madonna (N.B. da usarsi soltanto come codice secondario)
+56D	speranza e timore
+56DD	speranza e timore (concetti opposti)
+56D1	speranza; 'Speranza', 'Speranza delle fatiche' (Ripa)
+43A374	spettacolo con animali ammaestrati (scimmie, elefanti, orsi, leoni e tigri, cavalli, cani, delfini, foche, pulci)
+48C855	spettacolo di burattini e marionette
+73D625	spettatori ai piedi della croce, tra cui Maria, Maria Maddalena e Giovanni Evangelista; Maria può essere rappresentata nell'atto di svenire
+25H133	spiaggia
+47I1111	spighe di grano
+48A98133	spirale e forme derivate dalla spirale, p.es. onda greca ~ decorazioni
+43C23	sport, ecc. nell'aria
+43C1	sport, giochi ~ animali
+43C	sport, giochi, prove atletiche
+43C2	sport, giochi, prove atletiche ~ velocità
+42D21	sposi in abito nuziale
+25I4	stabilimenti e mulini in un paesaggio
+23D	stagioni dell'anno (personificazioni); 'Stagione', 'Le quattro stagioni dell'anno' (Ripa)
+23E	stagioni dell'anno rappresentate da scene che illustrano le attività umane, di norma in un paesaggio
+23F	stagioni rappresentate da un paesaggio
+49M3	stampati
+41A24	stanza da bagno
+41A22	stanze comuni (interno della casa)
+31B62359	stare in silenzio
+45	stato di guerra; questioni militari
+31B18	stato di incoscienza
+44	stato; legge; vita politica
+73D43	stazioni della Via crucis
+24D	stelle
+24F2	stelle nel firmamento
+46A122	stemma, araldica
+46AA122	stemma, araldica - AA - femminile
+44A1	stemma, blasone (come simbolo dello stato, ecc., non di persona o famiglia)
+44B194	stemma, blasone (simbolo di sovranità)
+49D4	stereometria, geometria solida
+41D23321	stivali
+6	storia
+98	storia classica
+73B5	storia dei tre Saggi (re o Magi) (Mt. 2, 1-12)
+71L	storia del Regno del Sud (Giuda)
+71P43	storia del drago (Dn. 14, 23-41)
+73F221	storia della conversione di Paolo (At. 9, 1-18)
+71H3	storia della morte di Saul
+73B1	storia della nascita di Cristo (Lc. 2, 1-20)
+73A1	storia della nascita e giovinezza di Giovanni Battista (Lc. 1,5-25; 57-80)
+73D33	storia della negazione di Pietro (Mt. 26, 58, 69-75; Mc. 14, 54, 66-72; Lc. 22, 55-62; Gv. 18, 15-18, 25-27)
+73C2	storia della tentazione di Cristo nel deserto (Mt. 4, 1-11; Mc. 1, 12-13; Lc. 4, 1-13)
+71C1	storia di Abramo
+71C11	storia di Abramo (parte I)
+71C12	storia di Abramo (parte II)
+71C13	storia di Abramo (parte III)
+71E331	storia di Balaam
+71A8	storia di Caino e Abele
+73C32	storia di Cristo che cammina sull'acqua, 'Navicella' (Mt. 14, 22-33; Mc. 6, 45-52; Lc. 6, 15-21)
+73C31	storia di Cristo che placa la tempesta sul mar di Galilea (Mt 8, 23-27; Mc.4, 35-41; Lc. 8, 22-25)
+92D1921	storia di Cupido e Psiche (Apuleio, Met., L'asino d'oro IV, 28 - VI, 25)
+71H	storia di David
+71H14	storia di David e Golia
+71M	storia di Elia
+71N	storia di Eliseo
+71Q	storia di Ester
+73B9	storia di Gesù dodicenne a Gerusalemme (Lc. 2, 41-52)
+71C3	storia di Giacobbe
+71C32	storia di Giacobbe (II parte)
+71C31	storia di Giacobbe (parte I)
+71F154	storia di Giaele e Sisara
+73A23	storia di Gioacchino e Anna
+71L14	storia di Giosafat, figlio di Asa, re di Giuda (1 Re 22, 41-51; 2 Cr. 17-20)
+73C1	storia di Giovanni Battista (Mt. 3; Mc. 1, 4-11; Lc. 3, 1-22; Gv. 1, 19-34)
+71D	storia di Giuseppe
+71D1	storia di Giuseppe (parte I)
+71C2	storia di Isacco
+73C52	storia di Lazzaro (Gv. 11, 1-44)
+71E1	storia di Mosè
+71B3	storia di Noè
+71I	storia di Salomone
+71G	storia di Saul
+71P41	storia di Susanna e i vecchi (nella quale il giovane Daniele interviene in aiuto di Susanna) (Dn. 13)
+49K1	storia e archeologia
+25I14	strada pubblica
+25II14	strada pubblica - II - città ideale
+25I24	strada pubblica di un paese
+46C11	strada, sentiero
+73B63	strage degli innocenti
+73B6	strage degli innocenti e fuga in Egitto (Mt. 2, 13-23)
+46A1	stratificazioni sociali, gruppi sociali
+48C732	strumenti a corda (suonati a pizzico)
+48C731	strumenti a corda (suonati con archetto)
+48CC731	strumenti a corda (suonati con archetto) - CC - all'esterno
+48C735	strumenti a fiato
+48C734	strumenti a percussione
+49D511	strumenti da disegno
+44G321	strumenti di tortura, esecuzione o punizione
+48C73	strumenti musicali; gruppo di strumenti musicali
+48CC73	strumenti musicali; gruppo di strumenti musicali - CC - all'esterno
+49L5	strumenti per la scrittura
+47A	strutture industriali
+25I17	strutture sotterranee della città
+49B44	studente
+49BB44	studente - BB - studentessa
+41A251	studio, 'studiolo'; biblioteca
+49C3	studioso, filosofo
+54F1	successo; 'Evento buono' (Ripa)
+11G18341	sul monte Gargano San Michele arcangelo appare a Gargano, vescovo di Siponte, che aveva tirato una freccia a un toro
+73F2212	sulla via di Damasco Cristo appare a Saulo, che cade da cavallo e viene accecato dal bagliore
+48C75	suonare; musicista con strumento
+48CC75	suonare; musicista con strumento - CC - all'esterno
+43B3	svaghi in un interno
+43B	svago
+43B2	svago all'aperto
+43	svago, divertimento
+31B181	svenire
+11Q7143	tabernacolo ~ altare
+48C7341	tamburo (strumenti musicali)
+41A431	tappeto, tappetino
+31A35	tatto (uno dei cinque sensi)
+31A51511	tatuaggio
+31A5151	tatuare
+41C3	tavola apparecchiata: stoviglie da tavolo, decorazione, ecc.
+49L6451	tavoletta d'argilla, tavoletta di pietra, lastra di pietra, lapide
+49L645	tavolette per scrittura
+41A711	tavolo
+41C38	tavolo apparecchiato come natura morta
+48C5152	tavolozza
+41C331	tazza e piattino
+48A721	teatro (costruzione)
+48C85	teatro, rappresentazione teatrale
+48C1641	telamoni ~ architettura
+32A11	temperamento collerico
+32A13	temperamento flemmatico
+32A14	temperamento melanconico
+26C3	tempesta
+26C32	tempesta sul mare
+12B61	tempio, santuario ~ religioni non cristiani
+12F61	tempio, santuario, ecc. ~ religione romana
+23	tempo
+41A422	tendaggi e tessuti
+25	terra, mondo come corpo celeste
+25H18	terre coltivate
+25HH18	terre coltivate - HH - paesaggi ideali
+73D4113	terza caduta ~ Cristo trasporta la croce
+11Q73113	terza parte della messa, 'Post communio'
+31F11	teschio come simbolo della Morte
+41A423	tessuti cerimoniali
+31A221	testa (umana)
+31AA221	testa (umana) - AA - figura umana femminile
+73D3522	testa di Cristo con la corona di spine
+48A9842	testa di ariete ~ elementi decorativi
+48A9843	testa di leone ~ elementi decorativi
+31A2421	testa girata a sinistra
+31A242	testa girata di lato
+31A244	testa piegata in avanti; capo chino
+46C131611	testiera di briglia
+25F44	testuggini, tartarughe
+41A36	tetto (di casa o edificio)
+92H191	thiasos marino, corteo marino di Nettuno
+92L191	thiasos, ovvero folla orgiastica di seguaci di Bacco; baccanale senza la presenza di Bacco
+41C692	tipi di carne
+11Q731	tipi di funzione ~ Chiese Cristiane
+51L	tipi di moto
+32A	tipi umani
+32	tipi umani; genti, popoli e nazionalità
+11D32	tipologie particolari del Cristo adulto (senza altri personaggi)
+11D35	tipologie specifiche del Cristo crocifisso (non in contesto narrativo)
+11F413	tipologie specifiche di Madonna in piedi (a figura intera o a mezza figura), senza altri personaggi
+11F423	tipologie specifiche di Madonna seduta o in trono (senza altri)
+11F62	tipologie specifiche raffiguranti la Madonna con altri personaggi
+92C452	toletta di Venere
+42E3	tomba, segni o elementi di identificazione di una tomba
+42E31	tomba, sepolcro
+42E35	tombe architettoniche, tombe monumentali, monumenti sepolcrali
+31A222	torace, busto
+31AA222	torace, busto - AA - figura umana femminile
+41B32	torcia
+47I2111	toro
+23O22	toro (segno zodiacale di aprile)
+41A361	torre (di casa o edificio)
+25I155	torre, torre campanaria, torre dell'orologio ~ decorazioni monumentali
+45K142	torri ~ città fortificata
+44G33	tortura
+73D35	torture di Cristo
+41A63	tracciato, schema di un giardino
+46C1	traffico di terra
+46C15	traffico ferroviario
+46C16	traffico su strada o su sentiero con un veicolo a motore
+46C2	traffico sull'acqua
+46C	traffico, circolazione e trasporti
+48C8545	tragedia
+24A2	tramonto
+46C121	trasportare qualcosa
+46C1215	trasportare qualcosa sulla testa o sulle spalle
+73D74	trasporto del corpo di Cristo al sepolcro
+73D41	trasporto della croce: Cristo trasporta la croce, da solo o con l'aiuto di altri (p.es.: Simone il Cireneo)
+45C71	trasporto di infermi, feriti e morti (militare)
+25D433	trasporto di petrolio
+11F834	trasporto miracoloso della casa di Nazareth a Loreto (miracolo relativo a Maria Vergine)
+47I145	trasporto ~ raccolto
+41D28	travestimento
+49D33	triangolo (~ planimetria, geometria)
+43A43	trionfi (allegorici e simbolici)
+43A432	trionfi simbolici di singoli personaggi
+92L178	trionfo di Bacco; 'Carro di Bacco' (Ripa)
+71H1521	trionfo di David: le donne di Israele escono per dare il benvenuto a David, cantando, danzando e suonando timpani e lire; David porta la testa di Golia
+92B178	trionfo di Giove; 'Carro di Giove' (Ripa)
+92C278	trionfo di Minerva; 'Carro di Minerva' (Ripa)
+92C478	trionfo di Venere; 'Carro di Venere' (Ripa)
+45A31	trionfo militare
+41A7111	tripode
+31A4561	tritone
+92H391	tritone(i)
+49C11	trivio (personificazioni della Grammatica, Dialectica e Rhetorica)
+43C11311	trofei di caccia
+45L311	trofeo ~ battaglia o guerra
+48A9874	trofeo, ovvero sistemazione decorativa di motivi simbolici o rappresentativi
+42B3	trovatello/a (e adozione)
+11Q71428	turibolo
+43C13	uccellagione, uccellatore
+25F3	uccelli
+25F36	uccelli acquatici
+25F32	uccelli canori
+34B23	uccelli domestici tenuti fuori casa
+25F35	uccelli ornamentali
+25F33	uccelli rapaci
+44B121	udienza; sovrano che dà udienza
+45D312	ufficiale nell'esercito
+94H	ultimi mesi dell'assedio e caduta di Troia
+94G23	ultimo combattimento e morte di Ettore
+57A64	umiltà; 'Humiltà' (Ripa)
+73B62	un angelo appare a Giuseppe in sogno esortandolo a fuggire in Egitto
+73F2143	un angelo appare a Pietro invitandolo ad alzarsi ~arresto di Pietro
+71A611	un angelo scaccia Adamo ed Eva dal paradiso con una spada (fiammeggiante)
+71M53	un angelo sveglia Elia; di norma una focaccia e una brocca d'acqua sono raffigurati vicino alla testa di Elia
+71M84	un carro, dei cavalli di fuoco e un turbine portano Elia in cielo; il mantello di Elia cade a terra (o Elia lo porge ad Eliseo)
+73C422	un paralitico disteso sul letto è condotto nella casa in cui Cristo sta predicando (Mt. 9, 1-8; Mc. 2, 1-12; Lc. 5, 17-26)
+73C72621	una donna lava i piedi di Cristo con le lacrime e li asciuga con i capelli
+73F2122	una folla di infermi guariti da Pietro e dagli altri discepoli (At. 5, 12-16)
+31A2622	una gamba piegata portata in avanti o indietro, con il ginocchio o il piede poggiato su un elemento rialzato
+25F24	ungulati
+25FF241	unicorno
+45C21	uniformi (militari)
+49B4	università
+73D662	uno o entrambi i ladroni in croce
+41D91	uomo (che si mostra) svestito, seminudo
+31D14	uomo adulto
+34F12	uomo che uccide un animale
+36	uomo e ambiente
+34	uomo e animale
+34F	uomo e animale (selvatico)
+31	uomo in senso biologico generale
+42E34	urna
+41A8	uso della casa
+55C	uso della proprietà
+41C27	utensili da cucina
+47I4223	uva
+25H12	valletta, valle
+25D	varietà di rocce; minerali e metalli; terreno
+48A9854	vaso ~ elementi decorativi
+48AA9854	vaso ~ elementi decorativi - AA - stilizzata
+41C326	vaso, caraffa (usati come recipienti per bere)
+41C343	vassoio
+31D17	vecchia
+31D16	vecchio, anziano
+42D42	vedova
+25I1	veduta di città in generale; 'veduta'
+25II1	veduta di città in generale; 'veduta' - II - città ideale
+25I	veduta di città; paesaggio con edifici costruiti per opera dell'uomo
+25II	veduta di città; paesaggio con edifici costruiti per opera dell'uomo - II - paesaggio ideale
+45E3	veicoli militari
+45E31	veicoli militari antichi: cocchio, carro da guerra, ecc.
+46C142	veicolo a due ruote a trazione animale
+46C144	veicolo a quattro ruote a trazione animale, p.es. carrozza
+46C24	veliero, barca a vela
+41D2211	velo
+41D13	vendita, diffusione di moda
+73F16	vengono scelti sette diaconi, tra cui Stefano, che può figurare in ginocchio davanti a Pietro ~ comunità dei discepoli (At. 6, 1-6)
+41D262	ventaglio
+26C	venti
+41C65	verdura e frutta; natura morta di verdura e frutta
+23O33	vergine (segno zodiacale di agosto)
+31A7211	verginità
+52A6	verità; 'Verità' (Ripa)
+11Q7146	vesti liturgiche, paramenti
+41A21	vestibolo, ingresso
+31A55	vestire e spogliare
+41D211	vestito, abito lungo
+11Q71311	vetrata, p.es. rosone
+25I141	via
+73F223	viaggi missionari di Paolo
+46C5	viaggiare; turismo
+73E34	viaggio ad Emmaus: due discepoli (Cleofa e Pietro) sulla strada
+41A162	villa
+25I2	villaggio, paese
+45I6	vincitore (dopo la battaglia)
+41C711	vino ~ bevande alcoliche
+48C7312	viola, violoncello; contrabbasso
+48C7311	violino, violetta
+57A6	virtuosità; 'Amor di Virtù', Attione virtuosa', 'Guida sicura de' veri honori', 'Virtù', 'Virtù insuperabile' (Ripa)
+62	visioni del futuro
+71O93	visioni di Ezechiele
+11V5	visitare gli infermi, 'aeger curatur' ~ una delle (sette) opere di misericordia
+41A337	vista attraverso una finestra
+41A3372	vista attraverso una finestra dall'interno
+31A31	vista, guardare (uno dei cinque sensi)
+25I22	vista, panorama, profilo di un paese
+25I12	vista, panorama, profilo di una città
+12E1	visualizzazione di concetti e idee ~ religione greca
+12H1	visualizzazioni di concetti e idee ~ induismo, buddismo, jainismo
+58B2	vita
+31E5	vita contro morte
+46A	vita della comunità
+49BB442	vita dello studente - BB - studentessa
+73F2	vita e atti degli apostoli (I parte)
+73F3	vita e atti degli apostoli (II parte)
+73F	vita e atti degli apostoli di Cristo; epistole
+73F25	vita e atti di Andrea
+73F27	vita e atti di Bartolomeo (Natanaele)
+73F26	vita e atti di Filippo
+73F24	vita e atti di Giacomo Maggiore (il Vecchio)
+73F23	vita e atti di Giovanni Evangelista
+73F22	vita e atti di Paolo (Saulo)
+73F21	vita e atti di Pietro
+73F35	vita e atti di Stefano (At. 6, 8 - 8, 2)
+11Q3	vita e pratica ascetica
+42B7	vita familiare
+11P3153	vita in convento
+73C	vita pubblica di Cristo: dal battesimo alla Passione
+73B7	vita quotidiana a Nazaret
+46	vita sociale ed economica, trasporti e comunicazioni
+58B	vitalità e mortalità
+58B1	vitalità, energia vitale, forza vitale
+47I422	vite
+47I2113	vitello
+48AA98312	viticci ~ elementi decorativi - AA - stilizzata
+47I42	viticoltura; vendemmia
+54F2	vittoria
+45A3	vittoria ~ conflitto armato
+57AA6	viziosità, cattiveria
+73C711	vocazione degli apostoli
+73C7115	vocazione di Matteo (Levi), l'esattore delle tasse (in genere figurano dei soldi sparsi sul tavolo e alcune persone che pagano le tasse (Mt. 9, 9; Mc. 2, 14; Lc. 5, 27-28)
+53	volontà, volizione
+48C1622	volta ~ architettura
+31A2211	volto
+48A9861	voluta, ornamento nastriforme ~ elementi decorativi
+25C1	vulcanismo
+25C12	vulcano
+23O	zodiaco; i dodici segni zodiacali raffigurati insieme
+41C334	zuccheriera
